@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Film Gan]]></title>
+		<description><![CDATA[Mantap]]></description>
+		<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg</url>
+			<title>Music</title>
+			<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 06 Dec 2020 02:11:22 GMT</lastBuildDate>
+		<atom:link href="http://putrawebcenter.rf.gd/filmdata.xml" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Musik]]></author>
+		<copyright><![CDATA[Musik]]></copyright>
+		<language><![CDATA[in]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>Musik</itunes:author>
+		<itunes:summary>Mantap</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Musik</itunes:name>
+			<itunes:email></itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Music">
+			<itunes:category text="Music Commentary"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg"/>
+		<item>
+			<title><![CDATA[BLACKPINK - Light Up the Sky SUB INDONESIA]]></title>
+			<description><![CDATA[Film ini menceritakan tentang segala kegiatan Blackpink mulai dari proses rekaman, hingga pasang surutnya perjalanan mereka di industri musik. <br> </br><br>Perjalanan Blackpink hingga mencapai ke titik tur dunia yang tiketnya terjual habis serta penampilan bersejarah mereka di Festival Coachella 2019.</br>
+<br>Di mana mereka menjadi grup musik K-pop perempuan pertama yang bisa tampil di sana.</br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
+			<enclosure url="https://bit.ly/3a2aNW6" length="3443902" type="video/mp4"/>
+			<itunes:summary>Pp
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4770</itunes:duration>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/bp.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[5 Cowok Jagoan: Rise of Zombies]]></title>
+			<description><![CDATA[Tes Server Data
+]]></description>
+			<link>https://anchor.fm/database/episodes/BLACKPINK---Lovesick-Girls-end52t</link>
+			<guid isPermaLink="false">cd3537d7-db69-4cfc-b168-f206d290d818</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<pubDate>Sat, 05 Dec 2020 12:07:45 GMT</pubDate>
+			<enclosure url="https://bit.ly/3gzSjxi" length="4841358" type="video/mp4"/>
+			<itunes:summary>Aye
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6372</itunes:duration>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Yowis Ben 2]]></title>
+			<description><![CDATA[Liriknya
+]]></description>
+			<link>https://anchor.fm/database/episodes/SECRET-NUMBER---Got-That-Boom-end4p3</link>
+			<guid isPermaLink="false">a2f3ed74-658a-427f-aaf3-b961ac8ece74</guid>
+			<dc:creator><![CDATA[Musik]]></dc:creator>
+			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
+			<enclosure url="https://bit.ly/3m1JDB6" length="3603311" type="video/mp4"/>
+			<itunes:summary>Liriknya
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>6524</itunes:duration>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
