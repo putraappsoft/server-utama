@@ -8,8 +8,8 @@
 			<title>Music</title>
 			<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
 		</image>
-		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Sun, 06 Dec 2020 02:11:22 GMT</lastBuildDate>
+		<generator>Putra Apps</generator>
+		<lastBuildDate>Sun, 13 Dec 2020 17:37:22 GMT</lastBuildDate>
 		<atom:link href="http://putrawebcenter.rf.gd/filmdata.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Musik]]></author>
 		<copyright><![CDATA[Musik]]></copyright>
@@ -28,6 +28,28 @@
 		</itunes:category>
 		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg"/>
 		<item>
+<title>
+<![CDATA[ Heart ]]>
+</title>
+<description>
+<![CDATA[ tes ]]>
+</description>
+<link>http://tahulirikuy.blogspot.com</link>
+<guid isPermaLink="false">0cde768f-716a-4ce1-ada9-74ed1dc18967</guid>
+<dc:creator>
+<![CDATA[ Musik ]]>
+</dc:creator>
+<pubDate>Sun, 13 Dec 2020 17:29:30 GMT</pubDate>
+<enclosure url="https://bit.ly/3gFXlIV" length="3443902" type="video/mp4"/>
+<itunes:summary>Putra Apps </itunes:summary>
+<itunes:explicit>No</itunes:explicit>
+<itunes:duration>7811</itunes:duration>
+<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/heart.jpg"/>
+<itunes:season>3</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+<item>
 			<title><![CDATA[BLACKPINK - Light Up the Sky SUB INDONESIA]]></title>
 			<description><![CDATA[Film ini menceritakan tentang segala kegiatan Blackpink mulai dari proses rekaman, hingga pasang surutnya perjalanan mereka di industri musik. <br> </br><br>Perjalanan Blackpink hingga mencapai ke titik tur dunia yang tiketnya terjual habis serta penampilan bersejarah mereka di Festival Coachella 2019.</br>
 <br>Di mana mereka menjadi grup musik K-pop perempuan pertama yang bisa tampil di sana.</br>
