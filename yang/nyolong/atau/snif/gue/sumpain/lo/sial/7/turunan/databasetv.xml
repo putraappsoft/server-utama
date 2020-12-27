@@ -26,10 +26,10 @@
 		<itunes:category text="Music">
 			<itunes:category text="Music Commentary"/>
 		</itunes:category>
-		<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
+		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg"/>
 		<item>
 			<title><![CDATA[CNN INDONESIA Streaming Online]]></title>
-			<description><![CDATA[🔴<b>CNN INDONESIA SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>CNN INDONESIA SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>18:36 WIB</b></br>
 <br></br>
@@ -49,14 +49,14 @@
 			<itunes:summary>CNN Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/cnn.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-cnn.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[BERITA SATU Streaming Online]]></title>
-			<description><![CDATA[🔴<b>BERITA SATU SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>BERITA SATU SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>18:28 WIB</b></br>
 <br></br>
@@ -76,18 +76,18 @@
 			<itunes:summary>Berita Satu Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/beritasatu.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-beritasatu.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[DAAI TV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>DAAI TV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>DAAI TV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>18:19 WIB</b></br>
 <br></br>
-<br><b>DAAI TV (大愛電視)</b> adalah sebuah stasiun televisi milik <b>Yayasan Buddha Tzu Chi</b> yang disiarkan di lebih dari 70 negara, termasuk Indonesia.</br>
+<br><b>DAAI TV (å¤§æ„›é›»è¦–)</b> adalah sebuah stasiun televisi milik <b>Yayasan Buddha Tzu Chi</b> yang disiarkan di lebih dari 70 negara, termasuk Indonesia.</br>
 <br></br>
 <br>Sesuai misinya, <b>DAAI TV</b> memfokuskan diri dalam bidang kemanusiaan yang menitikberatkan pada penyebaran cinta kasih lintas agama, suku, bangsa dan negara.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
@@ -103,14 +103,14 @@
 			<itunes:summary>DAAITV Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/daai.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-daai.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[ElSHINTA TV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>ELSHINTA TV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>ELSHINTA TV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>18:17 WIB</b></br>
 <br></br>
@@ -130,14 +130,14 @@
 			<itunes:summary>ElshintaTv Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/elshinta.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-elshinta.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[NET Streaming Online]]></title>
-			<description><![CDATA[🔴<b>NET SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>NET SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>17:17 WIB</b></br>
 <br></br>
@@ -157,14 +157,14 @@
 			<itunes:summary>Net Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/net.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-net.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[KOMPAS TV Streaming Online]]></title>
-			<description><![CDATA[⚫<b>KOMPAS TV SERVER OFFAIR</b>
+			<description><![CDATA[âš«<b>KOMPAS TV SERVER OFFAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>17:08 WIB</b></br>
 <br></br>
@@ -184,14 +184,14 @@
 			<itunes:summary>KOMPAS Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/kompas.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-kompas.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[METROTV Streaming Online]]></title>
-			<description><![CDATA[⚫<b>METROTV SERVER OFFAIR</b>
+			<description><![CDATA[âš«<b>METROTV SERVER OFFAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>17:02 WIB</b></br>
 <br></br>
@@ -211,14 +211,14 @@
 			<itunes:summary>MetroTV Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/metrotv.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-metrotv.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[TRANS7 Streaming Online]]></title>
-			<description><![CDATA[⚫<b>TRANS7 SERVER OFFAIR</b>
+			<description><![CDATA[âš«<b>TRANS7 SERVER OFFAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>16:57 WIB</b></br>
 <br></br>
@@ -238,14 +238,14 @@
 			<itunes:summary>Trans7 Server Down
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/trans7.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-trans7.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[TVOne Streaming Online]]></title>
-			<description><![CDATA[⚫<b>TVONE SERVER OFFAIR</b>
+			<description><![CDATA[âš«<b>TVONE SERVER OFFAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>16:51 WIB</b></br>
 <br></br>
@@ -265,14 +265,14 @@
 			<itunes:summary>TVOne Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/tvone.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvone.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[GTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>GTV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>GTV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>16:28 WIB</b></br>
 <br></br>
@@ -292,14 +292,14 @@
 			<itunes:summary>Liriknya
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/gtv.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-gtv.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[SCTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>SCTV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>SCTV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>11:28 WIB</b></br>
 <br></br>
@@ -319,14 +319,14 @@
 			<itunes:summary>SCTV Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/sctv.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-sctv.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[RCTI Streaming Online]]></title>
-			<description><![CDATA[🔴<b>RCTI SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>RCTI SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>10:28 WIB</b></br>
 <br></br>
@@ -346,14 +346,14 @@
 			<itunes:summary>RCTI Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/rcti.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-rcti.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[MNCTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>MNCTV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>MNCTV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>11:50 WIB</b></br>
 <br></br>
@@ -373,14 +373,14 @@
 			<itunes:summary>MncTV Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/mnctv.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-mnctv.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[TRANSTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>TRANSTV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>TRANSTV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>10:50 WIB</b></br>
 <br></br>
@@ -400,14 +400,14 @@
 			<itunes:summary>TransTV Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/TV%20logo/transtv.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-transtv.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[INDOSIAR Streaming Online]]></title>
-			<description><![CDATA[🔴<b>INDOSIAR SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>INDOSIAR SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>09:50 WIB</b></br>
 <br></br>
@@ -427,14 +427,14 @@
 			<itunes:summary>INDOSIAR
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_061358.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-indosiar.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[ANTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>ANTV SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>ANTV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>09:49 WIB</b></br>
 <br></br>
@@ -448,7 +448,7 @@
 <br><b>Informasi Server</b></br>
 <br><b><i>database server: putraapps</i></b></br>
 ]]></description>
-			<link>https://anchor.fm/database/episodes/BLACKPINK---Lovesick-Girls-end52t</link>
+			<link>https://putraappsoft.blogspot.com</link>
 			<guid isPermaLink="false">02</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Mon, 02 Nov 2020 23:01:29 GMT</pubDate>
@@ -457,14 +457,14 @@
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>201</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_060355.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-antv.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>2</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[TVRI Streaming Online]]></title>
-			<description><![CDATA[🔴<b>TVRI SERVER ONAIR</b>
+			<description><![CDATA[ðŸ”´<b>TVRI SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Kamis, 10 Desember 2020 - <b>12:49 WIB</b></br>
 <br></br>
@@ -486,7 +486,7 @@
 			<itunes:summary>Server
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/20201209_061002.jpg"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvri.jpg"/>
 			<itunes:season>3</itunes:season>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
