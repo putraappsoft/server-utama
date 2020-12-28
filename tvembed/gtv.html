@@ -1,27 +1,532 @@
-<html>
-  <body>
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <video id="video" controls></video>
-    <script>
-    if(Hls.isSupported())
-    {
-        var video = document.getElementById('video');
-        var hls = new Hls();
-        hls.loadSource('https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8');
-        hls.attachMedia(video);
-        hls.on(Hls.Events.MANIFEST_PARSED,function()
-        {
-            video.play();
-        });
-    }
-    else if (video.canPlayType('application/vnd.apple.mpegurl'))
-    {
-        video.src = 'https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8';
-        video.addEventListener('canplay',function()
-        {
-            video.play();
-        });
-    }
-    </script>
-  </body>
-</html>
+<div id="sidebar-bg">
+         <header id="videohead-pro" class="sticky-header" style="z-index: 1000;">
+            <!-- SEARCH -->
+                <div id="dashboard_search" class="sb-search">
+                    <form action="https://www.metrotvnews.com/search" method="post">                        
+                        <input class="search-input" placeholder="Enter your search term..." value="" name="search" id="search" type="text" required="">
+                        <input class="search-submit" value="" type="submit">
+                    </form>
+                </div>
+            <!-- SEARCH END -->
+            
+            <!-- VIDEO LOGO -->
+            <div id="video-logo-background"><a href="https://www.metrotvnews.com/" title="metrotvnews.com"><img src="https://cdn01.metrotvnews.com/asset/images/main/lg_metrotvnews_light.png" alt="metrotvnews.com"></a></div>
+            <!-- VIDEO LOGO END-->
+            
+            <div class="new_user">
+                <!-- LIVE TV -->
+                <a href="https://www.metrotvnews.com/live" class="live_gif btn-header-pro btn-green-pro noselect" title="live tv">
+                    <img src="https://cdn01.metrotvnews.com/asset/images/main/reg.gif" alt="live_tv">
+                </a>
+                <!-- LIVE TV END -->
+                <button class="btn btn-header-pro noselect" data-toggle="modal" data-target="#LoginModal" role="button">Sign In</button>                <!--button class="btn btn-header-pro noselect" data-toggle="modal" data-target="#LoginModal" role="button">Sign In</button-->
+            </div>
+            
+            <!-- ACCOUNT -->
+            <div id="mobile-bars-icon-pro" class="noselect"><i class="fas fa-bars"></i></div>
+            <!-- LIVE TV MOBILE -->
+            <div class="live_tv_btn hide">
+                <a href="https://www.metrotvnews.com/live" class="live_gif btn-header-pro btn-green-pro noselect" title="live tv">
+                    <img src="https://cdn01.metrotvnews.com/asset/images/main/reg.gif" alt="live_tv">
+                </a>
+            </div>
+            <!-- LIVE TV MOBILE END -->
+                        <!-- ACCOUNT END -->
+            
+            <div class="clearfix"></div>
+            <nav id="mobile-navigation-pro">
+                <div class="menu-collapser" style="display: block;">Menu<div class="collapse-button"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></div></div><ul id="mobile-menu-pro" class="collapsed" style="display: none;">
+                  <li class="current-menu-item">
+                      <a href="https://www.metrotvnews.com/" title="home">
+                     <span class="icon-Home-4"></span>
+                        Home
+                     </a>
+                  </li><li>
+                  </li><li>
+                      <a href="https://www.metrotvnews.com/program" title="programs">
+                        <span class="icon-Reel"></span>
+                        Programs
+                    </a>
+                  </li>
+                  <li>
+                      <a href="https://www.metrotvnews.com/anchor" title="anchors">
+                     <span class="icon-Talk-Man"></span>
+                        Anchors
+                     </a>
+                  </li>
+                  <!-- li>
+                      <a href="https://www.metrotvnews.com/epg" title="epg">
+                        <span class="icon-Alarm"></span>
+                        Schedule
+                    </a>
+                  </li -->   
+                  <li>
+                      <a href="https://www.metrotvnews.com/release" title="Corporate Events">
+                     <span class="icon-Newspaper"></span>
+                     Corporate Events
+                     </a>
+                  </li>               
+               </ul>
+               <ul class="mobile_account">
+                    <!-- li>
+                        <a href="https://www.metrotvnews.com/account" title="my profile">
+                            <span class="icon-User"></span>
+                            My Profile
+                        </a>
+                    </li -->
+                    <li>
+                        <a href="https://www.metrotvnews.com/about" title="about">
+                            <span class="icon-Information"></span>
+                            About Us
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.metrotvnews.com/privacy" title="privacy policy">
+                            <span class="icon-Life-Safer"></span>
+                            Privacy Policy
+                        </a>
+                    </li>
+                    <!--li> 
+                        <a href="https://www.metrotvnews.com/account/logout title="logout">
+                            <span class="icon-Power-3"></span>
+                            Log Out
+                        </a>
+                    </li-->                
+               </ul>
+               <div class="clearfix"></div>
+               <!-- SEARCH MOBILE -->
+               <div id="dashboard_search_mobile" class="sb-search">
+                    <!-- <form action="https://www.metrotvnews.com/search" method="post">   -->
+                                        <form action="https://www.metrotvnews.com/search" method="post" accept-charset="utf-8">
+  
+                        <input class="search-submit_mobile" value="" type="submit">
+                        <input class="search-input_mobile" placeholder="Enter your search term..." name="search" id="search_mobile" type="text" required="">
+                    </form>
+                </div>
+               <!-- SEARCH MOBILE  END-->
+               <button class="btn btn-mobile-pro btn-grey-pro noselect" data-toggle="modal" data-target="#LoginModal" role="button">Sign In</button>
+               <a class="btn btn-mobile-pro btn-green-pro noselect" href="https://www.metrotvnews.com/register" title="register">Register</a>
+            </nav>
+         </header>         <nav id="sidebar-nav">
+            <!-- Add class="sticky-sidebar-js" for auto-height sidebar -->
+            <ul id="vertical-sidebar-nav" class="sf-menu sf-js-enabled sf-arrows" style="touch-action: pan-y;">
+                            <li class="normal-item-pro">
+                    <a href="https://www.metrotvnews.com/" title="home">
+                        <span class="icon-Home-4"></span>
+                        Home
+                    </a>
+                </li>
+               <li class="normal-item-pro">
+                   <a href="https://www.metrotvnews.com/program" title="programs">
+                        <span class="icon-Reel"></span>
+                        Programs
+                    </a>
+               </li>
+               <li class="normal-item-pro">
+                   <a href="https://www.metrotvnews.com/anchor" title="anchors">
+                        <span class="icon-Talk-Man"></span>
+                        Anchors
+                  </a>
+               </li>
+               <!-- li class="normal-item-pro">
+                   <a href="https://www.metrotvnews.com/epg" title="epg">
+                        <span class="icon-Alarm"></span>
+                        Schedule
+                    </a>
+               </li -->
+               <li class="normal-item-pro">
+                   <a href="https://www.metrotvnews.com/release" title="Corporate Events">
+                        <span class="icon-Newspaper"></span>
+                        Corporate Events
+                  </a>
+               </li>
+               <li class="normal-item-pro">
+                   <a href="https://www.metrotvnews.com/about" title="about">
+                        About Us
+                  </a>
+               </li>
+            </ul>
+            <div class="tool_bt dark_mode">
+                <span class="fa fa-toggle-on">&nbsp;</span>
+            </div>
+            <div class="clearfix"></div>
+         </nav>          
+         <div id="content-sidebar-pro">
+            <div class="content-sidebar-section borbot">
+                <div class="image_detail">
+                <!--?//=video_streaming(TRUE);?-->
+                <!--iframe src="https://www.dailymotion.com/embed/video/x75p70w?autoPlay=1" allowfullscreen="" allow="autoplay" width="782" height="440" frameborder="0"></iframe-->
+                    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+                    <div class="embed-container">
+                        <iframe id="streaming" frameborder="0" allowfullscreen="true" allow="autoplay" title="Dailymotion video player" width="100%" height="100%" src="https://www.dailymotion.com/embed/video/k236ofBIxajxDiti8CY?api=postMessage&amp;autoplay=true&amp;id=streaming&amp;mute=false&amp;origin=https%3A%2F%2Fwww.metrotvnews.com&amp;queue-enable=false"></iframe>
+                    </div>
+                </div>
+                <!--div class="rate_box">
+                    <div class="emote">
+                        <a href="#" title="">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/main/ic_emote_angry.png" alt="angry"/>
+                            <span>729</span>
+                        </a>
+                        <a href="#" title="">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/main/ic_emote_sad.png" alt="sad"/>
+                            <span>729</span>
+                        </a>
+                        <a href="#" title="">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/main/ic_emote_confuse.png" alt="confuse"/>
+                            <span>729</span>
+                        </a>
+                        <a href="#" title="">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/main/ic_emote_inspired.png" alt="inspired"/>
+                            <span>729</span>
+                        </a>
+                        <a href="#" title="">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/main/ic_emote_happy.png" alt="happy"/>
+                            <span>729</span>
+                        </a>
+                    </div>
+                </div-->
+            </div>
+            <!-- close .content-sidebar-section -->
+            <!--div class="content-sidebar-section borbot">
+                <div class="survey">
+                    <div class="question">
+                        <h3>Mana sih tempat yang paling asik menurut kamu untuk liburan di tahun ini?</h3>
+                    </div>
+                    <div class="answer">
+                        <form action="">
+                            <ul class="list_ans">
+                                <li><input type="radio" name="gender" value="Raja Ampat">Raja Ampat</li>
+                                <li><input type="radio" name="gender" value="Pantai beras seribu">Pantai beras seribu</li>
+                                <li><input type="radio" name="gender" value="Kebun Binatang">Kebun Binatang</li>
+                                <li><input type="radio" name="gender" value="Merapi">Merapi</li>
+                                <li><input type="radio" name="gender" value="Labuan Bajo">Labuan Bajo</li>
+                            </ul>
+                          </form>
+                    </div>
+                </div>
+            </div-->
+            <!-- close .content-sidebar-section -->
+            <!--div class="content-sidebar-section">
+                <div class="comment_section">
+                    <h4>Comments<span>9</span></h4>
+                    <form class="comment_form">
+                        <textarea id="txt_comment" class="com" placeholder="Masukkan komentar..."></textarea>
+                        <input class="submit btn btn-green-pro" value="KIRIM" type="submit">
+                    </form>
+                </div>
+                <div class="comment_fill_section">
+                    <div class="comment_row">
+                        <div class="photo">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/user-1.jpg" alt="phto">
+                        </div>
+                        <div class="comment_fill">
+                            <div class="report">
+                                <i class="fa fa-ellipsis-v"></i>
+                            </div>
+                            <a class="bt_report" href="#" title="Laporkan">Laporkan</a>
+                            <h6>Indah Nada</h6>
+                            <p>Arsitektur rumah tradisional atau omo hada juga dipertahankan dengan bahan yang terbuat dari bahan kayu dengan pilar-pilar batangan kayu yang kokoh.</p>
+                            <ul class="sidebar-review-time">
+                                <li>1 week ago</li>
+                                <li class="dot">&bull;</li>
+                                <li class="feed">Balas</li>
+                                <li class="feed_box">
+                                    <form class="comment_form">
+                                        <textarea id="txt_comment" class="com" placeholder="Masukkan komentar..."></textarea>
+                                        <input class="submit btn btn-green-pro" value="KIRIM" type="submit">
+                                    </form>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="comment_row">
+                        <div class="photo">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/user-1.jpg" alt="phto">
+                        </div>
+                        <div class="comment_fill">
+                            <div class="report">
+                                <i class="fa fa-ellipsis-v"></i>
+                            </div>
+                            <a class="bt_report" href="#" title="Laporkan">Laporkan</a>
+                            <h6>Indah Nada</h6>
+                            <p>keren ya, adat istiadatnya bisa masih terjaga sampai sekarang. Saluut!!! Semoga suatu saat bisa kesana, supaya bisa melihat adat istiadat dan keindahan alam indonesia dengan mata langsung. Hidup Indonesia!!!</p>
+                            <ul class="sidebar-review-time">
+                                <li>1 week ago</li>
+                                <li class="dot">&bull;</li>
+                                <li class="feed">Balas</li>
+                                <li class="feed_box">
+                                    <form class="comment_form">
+                                        <textarea id="txt_comment" class="com" placeholder="Masukkan komentar..."></textarea>
+                                        <input class="submit btn btn-green-pro" value="KIRIM" type="submit">
+                                    </form>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="comment_row">
+                        <div class="photo">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/user-1.jpg" alt="phto">
+                        </div>
+                        <div class="comment_fill">
+                            <div class="report">
+                                <i class="fa fa-ellipsis-v"></i>
+                            </div>
+                            <a class="bt_report" href="#" title="Laporkan">Laporkan</a>
+                            <h6>Indah Nada</h6>
+                            <p>Arsitektur rumah tradisional atau omo hada juga dipertahankan dengan bahan yang terbuat dari bahan kayu dengan pilar-pilar batangan kayu yang kokoh.</p>
+                            <ul class="sidebar-review-time">
+                                <li>1 week ago</li>
+                                <li class="dot">&bull;</li>
+                                <li class="feed">Balas</li>
+                                <li class="feed_box">
+                                    <form class="comment_form">
+                                        <textarea id="txt_comment" class="com" placeholder="Masukkan komentar..."></textarea>
+                                        <input class="submit btn btn-green-pro" value="KIRIM" type="submit">
+                                    </form>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="comment_row">
+                        <div class="photo">
+                            <img src="https://cdn01.metrotvnews.com/asset/images/user-1.jpg" alt="phto">
+                        </div>
+                        <div class="comment_fill">
+                            <div class="report">
+                                <i class="fa fa-ellipsis-v"></i>
+                            </div>
+                            <a class="bt_report" href="#" title="Laporkan">Laporkan</a>
+                            <h6>Indah Nada</h6>
+                            <p>Arsitektur rumah tradisional atau omo hada juga dipertahankan dengan bahan yang terbuat dari bahan kayu dengan pilar-pilar batangan kayu yang kokoh.</p>
+                            <ul class="sidebar-review-time">
+                                <li>1 week ago</li>
+                                <li class="dot">&bull;</li>
+                                <li class="feed">Balas</li>
+                                <li class="feed_box">
+                                    <form class="comment_form">
+                                        <textarea id="txt_comment" class="com" placeholder="Masukkan komentar..."></textarea>
+                                        <input class="submit btn btn-green-pro" value="KIRIM" type="submit">
+                                    </form>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div-->
+            <!-- close .content-sidebar-section -->
+         </div>
+
+         <main id="col-main-with-sidebar">
+            <div class="dashboard-container_small">
+                <!-- .sosmed-list -->
+                        <div class="sosmed_list">
+            <ul class="sosmed">
+                <li>
+                    <div class="ikon fb">
+                        <a href="https://www.facebook.com/metrotv" title="facebook">
+                            <span class="icon-Facebook"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ikon tw">
+                        <a href="https://twitter.com/metro_tv?lang=id" title="twitter">
+                            <span class="icon-Twitter"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ikon is">
+                        <a href="https://www.instagram.com/metrotv/?hl=en" title="instagram">
+                            <span class="icon-Instagram"></span>
+                        </a>
+                    </div>
+                </li>
+                <li>
+                    <div class="ikon yt">
+                        <a href="https://www.youtube.com/user/metrotvnews?hl=id&amp;gl=ID" title="youtube">
+                            <span class="icon-Youtube"></span>
+                        </a>
+                    </div>
+                </li>
+            </ul>
+        </div>                <!-- close .sosmed-list -->
+                <!-- close .movie-details-section -->
+                <div class="related-movie-section">
+                    <div class="row">
+                                            <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-12">
+                           <div class="item-listing-container-skrn">
+                              <div class="box-img">
+                                  <a href="https://www.metrotvnews.com/play/NrWCR3MQ-semangat-bangun-persepakbolaan-nasional"><img src="https://cdn01.metrotvnews.com/dynamic/content/2020/12/28/NrWCR3MQ/t_5fe949277661f.jpg?w=300" alt="Semangat Bangun Persepakbolaan Nasional "></a>
+                              </div>
+                              <div class="item-listing-text-skrn">
+                                 <div class="item-listing-text-skrn-vertical-align">
+                                    <h6><a href="https://www.metrotvnews.com/play/NrWCR3MQ-semangat-bangun-persepakbolaan-nasional">Semangat Bangun Persepakbolaan Nasional </a></h6>
+                                    <!--div
+                                       class="circle-rating-pro"
+                                       data-value="0.86"
+                                       data-animation-start-value="0.86"
+                                       data-size="32"
+                                       data-thickness="3"
+                                       data-fill="{
+                                       &quot;color&quot;: &quot;#006b97&quot;
+                                       }"
+                                       data-empty-fill="#b2d2e0" 
+                                       data-reverse="true"
+                                       ><span style="color:#006b97;">8.6</span></div-->
+                                 </div>
+                                 <!-- close .item-listing-text-skrn-vertical-align -->
+                              </div>
+                              <!-- close .item-listing-text-skrn -->
+                           </div>
+                           <!-- close .item-listing-container-skrn -->
+                        </div>
+                        <!-- close .col -->
+                                                <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-12">
+                           <div class="item-listing-container-skrn">
+                              <div class="box-img">
+                                  <a href="https://www.metrotvnews.com/play/NxGCynq3-perkuat-daya-saing-global-via-ekonomi-digital"><img src="https://cdn01.metrotvnews.com/dynamic/content/2020/12/28/NxGCynq3/t_5fe946c599fbe.jpg?w=300" alt="Perkuat Daya Saing Global Via Ekonomi Digital "></a>
+                              </div>
+                              <div class="item-listing-text-skrn">
+                                 <div class="item-listing-text-skrn-vertical-align">
+                                    <h6><a href="https://www.metrotvnews.com/play/NxGCynq3-perkuat-daya-saing-global-via-ekonomi-digital">Perkuat Daya Saing Global Via Ekonomi Digital </a></h6>
+                                    <!--div
+                                       class="circle-rating-pro"
+                                       data-value="0.86"
+                                       data-animation-start-value="0.86"
+                                       data-size="32"
+                                       data-thickness="3"
+                                       data-fill="{
+                                       &quot;color&quot;: &quot;#006b97&quot;
+                                       }"
+                                       data-empty-fill="#b2d2e0" 
+                                       data-reverse="true"
+                                       ><span style="color:#006b97;">8.6</span></div-->
+                                 </div>
+                                 <!-- close .item-listing-text-skrn-vertical-align -->
+                              </div>
+                              <!-- close .item-listing-text-skrn -->
+                           </div>
+                           <!-- close .item-listing-container-skrn -->
+                        </div>
+                        <!-- close .col -->
+                                                <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-12">
+                           <div class="item-listing-container-skrn">
+                              <div class="box-img">
+                                  <a href="https://www.metrotvnews.com/play/NA0C2B64-ihsg-bergerak-fluktuatif-cenderung-menguat"><img src="https://cdn01.metrotvnews.com/dynamic/content/2020/12/28/NA0C2B64/t_5fe9457b5c7af.jpg?w=300" alt="IHSG Bergerak Fluktuatif Cenderung Menguat "></a>
+                              </div>
+                              <div class="item-listing-text-skrn">
+                                 <div class="item-listing-text-skrn-vertical-align">
+                                    <h6><a href="https://www.metrotvnews.com/play/NA0C2B64-ihsg-bergerak-fluktuatif-cenderung-menguat">IHSG Bergerak Fluktuatif Cenderung Menguat </a></h6>
+                                    <!--div
+                                       class="circle-rating-pro"
+                                       data-value="0.86"
+                                       data-animation-start-value="0.86"
+                                       data-size="32"
+                                       data-thickness="3"
+                                       data-fill="{
+                                       &quot;color&quot;: &quot;#006b97&quot;
+                                       }"
+                                       data-empty-fill="#b2d2e0" 
+                                       data-reverse="true"
+                                       ><span style="color:#006b97;">8.6</span></div-->
+                                 </div>
+                                 <!-- close .item-listing-text-skrn-vertical-align -->
+                              </div>
+                              <!-- close .item-listing-text-skrn -->
+                           </div>
+                           <!-- close .item-listing-container-skrn -->
+                        </div>
+                        <!-- close .col -->
+                                                <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-12">
+                           <div class="item-listing-container-skrn">
+                              <div class="box-img">
+                                  <a href="https://www.metrotvnews.com/play/K5nC0gpD-acara-pernikahan-di-tiongkok-mulai-digelar-kembali"><img src="https://cdn01.metrotvnews.com/dynamic/content/2020/12/28/K5nC0gpD/t_5fe940451b9fe.jpg?w=300" alt="Acara Pernikahan di Tiongkok Mulai Digelar Kembali "></a>
+                              </div>
+                              <div class="item-listing-text-skrn">
+                                 <div class="item-listing-text-skrn-vertical-align">
+                                    <h6><a href="https://www.metrotvnews.com/play/K5nC0gpD-acara-pernikahan-di-tiongkok-mulai-digelar-kembali">Acara Pernikahan di Tiongkok Mulai Digelar Kembali </a></h6>
+                                    <!--div
+                                       class="circle-rating-pro"
+                                       data-value="0.86"
+                                       data-animation-start-value="0.86"
+                                       data-size="32"
+                                       data-thickness="3"
+                                       data-fill="{
+                                       &quot;color&quot;: &quot;#006b97&quot;
+                                       }"
+                                       data-empty-fill="#b2d2e0" 
+                                       data-reverse="true"
+                                       ><span style="color:#006b97;">8.6</span></div-->
+                                 </div>
+                                 <!-- close .item-listing-text-skrn-vertical-align -->
+                              </div>
+                              <!-- close .item-listing-text-skrn -->
+                           </div>
+                           <!-- close .item-listing-container-skrn -->
+                        </div>
+                        <!-- close .col -->
+                                                <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-12">
+                           <div class="item-listing-container-skrn">
+                              <div class="box-img">
+                                  <a href="https://www.metrotvnews.com/play/KZmCgJrj-natal-penuh-warga-di-taipei"><img src="https://cdn01.metrotvnews.com/dynamic/content/2020/12/28/KZmCgJrj/t_5fe9404165c1c.jpg?w=300" alt="Natal Penuh Warga di Taipei"></a>
+                              </div>
+                              <div class="item-listing-text-skrn">
+                                 <div class="item-listing-text-skrn-vertical-align">
+                                    <h6><a href="https://www.metrotvnews.com/play/KZmCgJrj-natal-penuh-warga-di-taipei">Natal Penuh Warga di Taipei</a></h6>
+                                    <!--div
+                                       class="circle-rating-pro"
+                                       data-value="0.86"
+                                       data-animation-start-value="0.86"
+                                       data-size="32"
+                                       data-thickness="3"
+                                       data-fill="{
+                                       &quot;color&quot;: &quot;#006b97&quot;
+                                       }"
+                                       data-empty-fill="#b2d2e0" 
+                                       data-reverse="true"
+                                       ><span style="color:#006b97;">8.6</span></div-->
+                                 </div>
+                                 <!-- close .item-listing-text-skrn-vertical-align -->
+                              </div>
+                              <!-- close .item-listing-text-skrn -->
+                           </div>
+                           <!-- close .item-listing-container-skrn -->
+                        </div>
+                        <!-- close .col -->
+                                                <!-- close .col -->
+                    </div>
+                    <!-- close .row -->
+                </div>
+                <!-- close .movie-details-section -->
+            </div>
+            <!-- close .dashboard-container -->
+            
+<div class="clearfix"></div>
+<div class="footer-new">
+    <div class="wrap">
+        <div class="item">
+            <div class="footop">
+                <a class="logo" href="https://www.metrotvnews.com/">
+                    <img class="for_day" src="https://cdn01.metrotvnews.com/asset/images/main/metrotv_blue.png">
+                    <img class="for_night" src="https://cdn01.metrotvnews.com/asset/images/main/metrotv_white.png">
+                </a>
+                <ul>
+                    <li><a href="https://www.metrotvnews.com/about" title="About">About</a></li>
+                    <li><a href="https://www.metrotvnews.com/sk" title="Terms &amp; Condition">Terms &amp; Condition</a></li>
+                    <li><a href="https://www.metrotvnews.com/contact" title="Contact Us">Contact Us</a></li>
+                    <li><a href="https://www.metrotvnews.com/privacy" title="Privacy Policy">Privacy Policy</a></li>
+                    <li><a href="https://www.metrotvnews.com/pedoman" title="Cyber Media Guidelines">Cyber Media Guidelines</a></li>
+                    <li><a href="http://career.metrotvnews.com/" title="About">Career</a></li>
+                </ul>
+            </div>
+            
+            <div class="ts">
+                            <p class="copy">Metrotv © Copyright 2007 - 2020. All Rights Reserved | / rendering in 0.0576 second [102]</p>
+            </div>
+        </div>
+    </div>
+</div>  
+        </main>
+        
+      </div>
