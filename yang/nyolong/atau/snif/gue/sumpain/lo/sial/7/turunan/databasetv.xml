@@ -342,7 +342,7 @@
 			<guid isPermaLink="false">06</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Fri, 06 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://putraappsoft.netlify.app/rcti.html" length="3443902" type="video/mp4"/>
 			<itunes:summary>RCTI Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
