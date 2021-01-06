@@ -326,7 +326,7 @@
 		</item>
 		<item>
 			<title><![CDATA[RCTI Streaming Online]]></title>
-			<description><![CDATA[🔴<b>RCTI SERVER OFFAIR</b>
+			<description><![CDATA[🔴<b>RCTI SERVER</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Senin, 14 Desember 2020 - <b>10:28 WIB</b></br>
 <br></br>
@@ -342,7 +342,7 @@
 			<guid isPermaLink="false">06</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Fri, 06 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="https://putraappsoft.netlify.app/rcti/" length="3443902" type="video/mp4"/>
+			<enclosure url="https://putraappsoft.netlify.app/rcti" length="3443902" type="video/mp4"/>
 			<itunes:summary>RCTI Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
