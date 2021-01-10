@@ -234,7 +234,7 @@
 			<guid isPermaLink="false">10</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Tue, 10 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="disini" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:summary>Trans7 Server Down
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
