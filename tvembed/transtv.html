@@ -1,0 +1,122 @@
+
+
+        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html itemscope itemtype="https://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <!-- Start Meta Ads -->
+        <meta name="platform" content="mobile" />
+        <meta name="site_name" content="cnn_streaming" />
+        <!-- End Meta Ads -->
+        <title>Live Streaming CNN TV</title>
+        <meta name="robots" content="noindex, nofollow" />
+        <meta name="googlebot" content="noindex, nofollow" />
+        <meta name="googlebot-news" content="noindex, nofollow" />
+        <style>
+            body {
+                margin:0;
+                padding:0;
+            }
+        </style>
+        <link rel="stylesheet" href="https://cdn.detik.net.id/assets/css/counter.css" />
+        <link rel="stylesheet" href="https://cdn.detik.net.id/flowplayer/skin.css" />
+        <script src="https://cdn.detik.net.id/flowplayer/jquery-1.11.2.min.js"></script>
+        <script src="https://cdn.detik.net.id/libs/livecounter/detikLiveUserCounter.js?v=c3e2a5fb"></script>        <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MMTX7HV');</script>
+<!-- End Google Tag Manager -->   </head>
+   <body>
+
+       <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMTX7HV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <div class="areatop">
+            <div class="areavideo">
+                <article>
+                    <div class="container-video">
+
+                        
+                            <script>
+                                var video_title = 'Mobile - Live Streaming CNN TV INDONESIA';
+                            </script>
+
+                            <div id="stream" class="fp-slim fp-mute">
+                                <link rel="stylesheet" href="https://cdn.detik.net.id/flowplayer/skin.css">
+
+                                                                                                                                        
+                                
+                                    <script>
+                                        const detikvideo_props = {
+                                            target      : 'stream',
+                                            title       : video_title,
+                                            autoplay    : false,
+                                            mute        : false,
+                                            live        : true,
+                                            imageUrl    : 'https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=9.8.4',
+                                            videoUrl    : 'https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8',
+                                            adRules     : '',
+                                            channel     : 'cnntvlivestreaming',
+                                            features    : {
+                                                loadByDiv       : true,
+                                                loadReviveAVOC  : true,
+                                                reviveAVOCDebug : true,
+                                                reviveAVOCCookieDomain : "cnnindonesia.com",
+                                                enableLiveAdsServerPush:true,
+                                                liveAdsServerPushChannel:"cnn_tv_msite_livestreaming",
+                                                smartAutoplay   : false,
+                                                enableConsoleLog: false,
+                                                enableVjsLogButton: false,
+                                            },
+                                            libs:{
+                                                reviveAVOC : "https://cdn.detik.net.id/commerce/revive/reviveavoc.js"
+                                            }
+                                        };
+
+                                        detikvideo_props.detikVideoLoadedCallback = function () {
+                                            $('.vcounter').css('visibility', 'visible');
+                                            detikLiveUserCounter.start();
+                                        };
+                                    </script>
+
+                                    <script src="https://cdn.detik.net.id/detikVideo/detikVideo.core.js?v=a65dc12a"> detikvideo_props </script>
+                                
+                            </div>
+
+                            
+                        
+                    </div>
+                </article>
+            </div>
+        </div>
+
+        
+        
+        <script>
+            function numberWithCommas(x) {
+                return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            }
+
+            function successHandler(msg) {
+                console.log(`jumlah penonton: ${msg.count}`)
+                $('#counterNumber').text(`${numberWithCommas(msg.count)} sedang menonton`);
+            }
+
+            function errorHandler(msg) {
+                console.error(`Error: ${msg.msg.statusText}`)
+                // $("#error").html(msg.statusText);
+            }
+
+            detikLiveUserCounter.setConfig({
+                channel: "cnnindonesia-tv",
+                domain: "cnnindonesia.com",
+                successCallback: successHandler,
+                errorCallback: errorHandler,
+            });
+        </script>
+   </body>
+</html>
