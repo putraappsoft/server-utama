@@ -1,32 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" >
 	<channel>
 		<title><![CDATA[Film]]></title>
-		<description><![CDATA[Mantap]]></description>
-		<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg</url>
-			<title>Music</title>
-			<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
 		</image>
-		<generator>Putra Apps</generator>
 		<lastBuildDate>Sun, 20 Dec 2020 22:55:22 GMT</lastBuildDate>
-		<atom:link href="http://putrawebcenter.rf.gd/filmdata.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Musik]]></author>
-		<copyright><![CDATA[Musik]]></copyright>
-		<language><![CDATA[in]]></language>
-		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>Musik</itunes:author>
-		<itunes:summary>Mantap</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>Musik</itunes:name>
-			<itunes:email></itunes:email>
-		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Music">
-			<itunes:category text="Music Commentary"/>
-		</itunes:category>
-		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg"/>
 		<item>
 <title>
 <![CDATA[BLACKPINK THE SHOW]]>
@@ -40,18 +18,10 @@
 </description>
 <link>http://putraproduction27.blogspot.com</link>
 <guid isPermaLink="false">16</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Sun, 31 Jan 2021 12:30:30 GMT</pubDate>
 <enclosure url="https://ipfs.io/ipfs/QmV8ZLqQuN9UH7AJvjh1JM6kBKAVvrqVQ5Cbangv3BSUAt" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>5224</itunes:duration>
-<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/tumbfilm/bpshow.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>5224</duration>
+<image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/tumbfilm/bpshow.jpg"/>
 </item>
 <item>
 <title>
@@ -72,18 +42,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">15</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Sun, 27 Dec 2020 12:30:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3rvNJW4" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>6625</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>6625</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
 </item>
 <item>
 <title>
@@ -104,18 +66,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">14</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Sat, 26 Dec 2020 13:05:30 GMT</pubDate>
 <enclosure url="https://bit.ly/2Ma752P" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>5723</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>5723</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
 </item>
 <item>
 <title>
@@ -135,18 +89,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">13</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Sat, 26 Dec 2020 12:05:25 GMT</pubDate>
 <enclosure url="https://bit.ly/2MaefnN" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>6194</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/f2.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>6194</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/f2.jpg"/>
 </item>
 <item>
 <title>
@@ -167,20 +113,12 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">12</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Sat, 26 Dec 2020 11:29:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3mQCrbt" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>7023</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/mw.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>7023</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/mw.jpg"/>
 </item>
-<item>
+  <item>
 <title>
 <![CDATA[The Boss Baby]]>
 </title>
@@ -197,18 +135,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">11</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Wed, 23 Dec 2020 18:19:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3hbhwhY" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>5850</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tbb.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>5850</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tbb.jpg"/>
 </item>
 <item>
 <title>
@@ -229,18 +159,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">10</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Mon, 21 Dec 2020 14:13:30 GMT</pubDate>
 <enclosure url="https://bit.ly/38o9A95" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>6950</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/p2.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>6950</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/p2.jpg"/>
 </item>
 <item>
 <title>
@@ -261,18 +183,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">09</guid>
-<dc:creator>
-<![CDATA[ Movie ]]>
-</dc:creator>
 <pubDate>Mon, 21 Dec 2020 13:53:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3audKyV" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>7088</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ttb.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>7088</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ttb.jpg"/>
 </item>
 <item>
 <title>
@@ -295,18 +209,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">08</guid>
-<dc:creator>
-<![CDATA[ Musik ]]>
-</dc:creator>
 <pubDate>Sun, 20 Dec 2020 23:21:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3rcemz3" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>6790</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/wonder.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>6790</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/wonder.jpg"/>
 </item>
 <item>
 <title>
@@ -327,18 +233,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">07</guid>
-<dc:creator>
-<![CDATA[ Musik ]]>
-</dc:creator>
 <pubDate>Sun, 20 Dec 2020 15:23:30 GMT</pubDate>
 <enclosure url="https://bit.ly/2J43W3g" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>5378</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/gb.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>5378</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/gb.jpg"/>
 </item>
 <item>
 <title>
@@ -359,18 +257,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">06</guid>
-<dc:creator>
-<![CDATA[ Musik ]]>
-</dc:creator>
 <pubDate>Fri, 18 Dec 2020 09:46:30 GMT</pubDate>
 <enclosure url="https://bit.ly/37okvQW" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>5186</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/d-rev.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>5186</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/d-rev.jpg"/>
 </item>
 <item>
 <title>
@@ -391,18 +281,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">05</guid>
-<dc:creator>
-<![CDATA[ Musik ]]>
-</dc:creator>
 <pubDate>Thu, 17 Dec 2020 17:43:30 GMT</pubDate>
 <enclosure url="https://bit.ly/37rUz6R" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>5028</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tic-rev.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>5028</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tic-rev.jpg"/>
 </item>
 <item>
 <title>
@@ -423,18 +305,10 @@
 </description>
 <link>http://tahulirikuy.blogspot.com</link>
 <guid isPermaLink="false">04</guid>
-<dc:creator>
-<![CDATA[ Musik ]]>
-</dc:creator>
 <pubDate>Sun, 13 Dec 2020 17:29:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3gFXlIV" length="3443902" type="video/mp4"/>
-<itunes:summary>Putra Apps</itunes:summary>
-<itunes:explicit>No</itunes:explicit>
-<itunes:duration>7811</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
-<itunes:season>3</itunes:season>
-<itunes:episode>9</itunes:episode>
-<itunes:episodeType>full</itunes:episodeType>
+<duration>7811</duration>
+<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
 </item>
 <item>
 			<title><![CDATA[BLACKPINK Light Up The Sky]]></title>
@@ -452,17 +326,10 @@
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">03</guid>
-			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
 			<enclosure url="https://bit.ly/3a2aNW6" length="3443902" type="video/mp4"/>
-			<itunes:summary>Pp
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>4770</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/bp-rev.jpg"/>
-			<itunes:season>3</itunes:season>
-			<itunes:episode>9</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
+			<duration>4770</duration>
+			<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/bp-rev.jpg"/>
 		</item>
 		<item>
 			<title><![CDATA[5 Cowok Jagoan: Rise of Zombies]]></title>
@@ -478,19 +345,12 @@
 <br><b>STATUS SERVER VIDEO: ▶RUNNING ONLINE</b></br>
 <br><b><i>Database Server: putraapps</i></b></br>
 ]]></description>
-			<link>https://anchor.fm/database/episodes/BLACKPINK---Lovesick-Girls-end52t</link>
+			<link>https://anchor.fm/database/episodes</link>
 			<guid isPermaLink="false">02</guid>
-			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Sat, 05 Dec 2020 12:07:45 GMT</pubDate>
 			<enclosure url="https://bit.ly/3gzSjxi" length="4841358" type="video/mp4"/>
-			<itunes:summary>Aye
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>6372</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episode>2</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
+			<duration>6372</duration>
+			<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
 		</item>
 		<item>
 			<title><![CDATA[Yowis Ben 2]]></title>
@@ -510,17 +370,10 @@
 ]]></description>
 			<link>disini</link>
 			<guid isPermaLink="false">01</guid>
-			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
 			<enclosure url="https://bit.ly/3m1JDB6" length="3603311" type="video/mp4"/>
-			<itunes:summary>YWB 2
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>6524</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
-			<itunes:season>3</itunes:season>
-			<itunes:episode>9</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
+			<duration>6524</duration>
+			<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
 		</item>
 	</channel>
 </rss>
