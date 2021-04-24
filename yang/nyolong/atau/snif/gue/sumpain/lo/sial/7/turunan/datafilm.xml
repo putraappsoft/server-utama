@@ -307,8 +307,8 @@
 <guid isPermaLink="false">04</guid>
 <pubDate>Sun, 13 Dec 2020 17:29:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3gFXlIV" length="3443902" type="video/mp4"/>
-<duration>7811</duration>
-<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
+<itunes:duration>7811</itunes:duration>
+<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
 </item>
 <item>
 			<title><![CDATA[BLACKPINK Light Up The Sky]]></title>
@@ -349,8 +349,8 @@
 			<guid isPermaLink="false">02</guid>
 			<pubDate>Sat, 05 Dec 2020 12:07:45 GMT</pubDate>
 			<enclosure url="https://bit.ly/3gzSjxi" length="4841358" type="video/mp4"/>
-			<duration>6372</duration>
-			<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
+			<itunes:duration>6372</itunes:duration>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
 		</item>
 		<item>
 			<title><![CDATA[Yowis Ben 2]]></title>
@@ -372,8 +372,8 @@
 			<guid isPermaLink="false">01</guid>
 			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
 			<enclosure url="https://bit.ly/3m1JDB6" length="3603311" type="video/mp4"/>
-			<duration>6524</duration>
-			<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
+			<itunes:duration>6524</itunes:duration>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
 		</item>
 	</channel>
 </rss>
