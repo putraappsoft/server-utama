@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:putra="http://www.putra.com/dtds/podcast-1.0.dtd">
 	<channel>
 		<title><![CDATA[Film]]></title>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg</url>
 		</image>
 		<lastBuildDate>Fri, 18 Dec 2020 02:11:22 GMT</lastBuildDate>
-		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg"/>
+		<putra:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg"/>
 		<item>
 <title>
 <![CDATA[BLACKPINK THE SHOW]]>
@@ -21,8 +21,8 @@
 <guid isPermaLink="false">16</guid>
 <pubDate>Sun, 31 Jan 2021 12:30:30 GMT</pubDate>
 <enclosure url="https://ipfs.io/ipfs/QmV8ZLqQuN9UH7AJvjh1JM6kBKAVvrqVQ5Cbangv3BSUAt" length="3443902" type="video/mp4"/>
-<itunes:duration>5224</itunes:duration>
-<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/tumbfilm/bpshow.jpg"/>
+<putra:duration>5224</putra:duration>
+<putra:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/tumbfilm/bpshow.jpg"/>
 </item>
 <item>
 <title>
@@ -45,8 +45,8 @@
 <guid isPermaLink="false">15</guid>
 <pubDate>Sun, 27 Dec 2020 12:30:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3rvNJW4" length="3443902" type="video/mp4"/>
-<itunes:duration>6625</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
+<putra:duration>6625</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
 </item>
 <item>
 <title>
@@ -69,8 +69,8 @@
 <guid isPermaLink="false">14</guid>
 <pubDate>Sat, 26 Dec 2020 13:05:30 GMT</pubDate>
 <enclosure url="https://bit.ly/2Ma752P" length="3443902" type="video/mp4"/>
-<itunes:duration>5723</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
+<putra:duration>5723</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
 </item>
 <item>
 <title>
@@ -92,8 +92,8 @@
 <guid isPermaLink="false">13</guid>
 <pubDate>Sat, 26 Dec 2020 12:05:25 GMT</pubDate>
 <enclosure url="https://bit.ly/2MaefnN" length="3443902" type="video/mp4"/>
-<itunes:duration>6194</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/f2.jpg"/>
+<putra:duration>6194</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/f2.jpg"/>
 </item>
 <item>
 <title>
@@ -116,8 +116,8 @@
 <guid isPermaLink="false">12</guid>
 <pubDate>Sat, 26 Dec 2020 11:29:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3mQCrbt" length="3443902" type="video/mp4"/>
-<itunes:duration>7023</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/mw.jpg"/>
+<putra:duration>7023</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/mw.jpg"/>
 </item>
   <item>
 <title>
@@ -138,8 +138,8 @@
 <guid isPermaLink="false">11</guid>
 <pubDate>Wed, 23 Dec 2020 18:19:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3hbhwhY" length="3443902" type="video/mp4"/>
-<itunes:duration>5850</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tbb.jpg"/>
+<putra:duration>5850</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tbb.jpg"/>
 </item>
 <item>
 <title>
@@ -162,8 +162,8 @@
 <guid isPermaLink="false">10</guid>
 <pubDate>Mon, 21 Dec 2020 14:13:30 GMT</pubDate>
 <enclosure url="https://bit.ly/38o9A95" length="3443902" type="video/mp4"/>
-<itunes:duration>6950</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/p2.jpg"/>
+<putra:duration>6950</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/p2.jpg"/>
 </item>
 <item>
 <title>
@@ -186,8 +186,8 @@
 <guid isPermaLink="false">09</guid>
 <pubDate>Mon, 21 Dec 2020 13:53:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3audKyV" length="3443902" type="video/mp4"/>
-<itunes:duration>7088</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ttb.jpg"/>
+<putra:duration>7088</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ttb.jpg"/>
 </item>
 <item>
 <title>
@@ -212,8 +212,8 @@
 <guid isPermaLink="false">08</guid>
 <pubDate>Sun, 20 Dec 2020 23:21:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3rcemz3" length="3443902" type="video/mp4"/>
-<itunes:duration>6790</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/wonder.jpg"/>
+<putra:duration>6790</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/wonder.jpg"/>
 </item>
 <item>
 <title>
@@ -236,8 +236,8 @@
 <guid isPermaLink="false">07</guid>
 <pubDate>Sun, 20 Dec 2020 15:23:30 GMT</pubDate>
 <enclosure url="https://bit.ly/2J43W3g" length="3443902" type="video/mp4"/>
-<itunes:duration>5378</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/gb.jpg"/>
+<putra:duration>5378</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/gb.jpg"/>
 </item>
 <item>
 <title>
@@ -260,8 +260,8 @@
 <guid isPermaLink="false">06</guid>
 <pubDate>Fri, 18 Dec 2020 09:46:30 GMT</pubDate>
 <enclosure url="https://bit.ly/37okvQW" length="3443902" type="video/mp4"/>
-<itunes:duration>5186</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/d-rev.jpg"/>
+<putra:duration>5186</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/d-rev.jpg"/>
 </item>
 <item>
 <title>
@@ -284,8 +284,8 @@
 <guid isPermaLink="false">05</guid>
 <pubDate>Thu, 17 Dec 2020 17:43:30 GMT</pubDate>
 <enclosure url="https://bit.ly/37rUz6R" length="3443902" type="video/mp4"/>
-<itunes:duration>5028</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tic-rev.jpg"/>
+<putra:duration>5028</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tic-rev.jpg"/>
 </item>
 <item>
 <title>
@@ -308,8 +308,8 @@
 <guid isPermaLink="false">04</guid>
 <pubDate>Sun, 13 Dec 2020 17:29:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3gFXlIV" length="3443902" type="video/mp4"/>
-<itunes:duration>7811</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
+<putra:duration>7811</putra:duration>
+<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
 </item>
 <item>
 			<title><![CDATA[BLACKPINK Light Up The Sky]]></title>
@@ -350,8 +350,8 @@
 			<guid isPermaLink="false">02</guid>
 			<pubDate>Sat, 05 Dec 2020 12:07:45 GMT</pubDate>
 			<enclosure url="https://bit.ly/3gzSjxi" length="4841358" type="video/mp4"/>
-			<itunes:duration>6372</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
+			<putra:duration>6372</putra:duration>
+			<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
 		</item>
 		<item>
 			<title><![CDATA[Yowis Ben 2]]></title>
@@ -373,8 +373,8 @@
 			<guid isPermaLink="false">01</guid>
 			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
 			<enclosure url="https://bit.ly/3m1JDB6" length="3603311" type="video/mp4"/>
-			<itunes:duration>6524</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
+			<putra:duration>6524</putra:duration>
+			<putra:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
 		</item>
 	</channel>
 </rss>
