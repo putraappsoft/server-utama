@@ -1,32 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" >
 	<channel>
-		<title><![CDATA[TV LIVE]]></title>
-		<description><![CDATA[Mantap]]></description>
-		<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
+		<title><![CDATA[Film]]></title>
 		<image>
 			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg</url>
-			<title>Music</title>
-			<link>http://putrawebcenter.rf.gd/filmdata.xml</link>
 		</image>
-		<generator>Putra Apps Database Server</generator>
-		<lastBuildDate>Fri, 18 Dec 2020 02:11:22 GMT</lastBuildDate>
-		<atom:link href="http://putrawebcenter.rf.gd/filmdata.xml" rel="self" type="application/rss+xml"/>
-		<author><![CDATA[Database]]></author>
-		<copyright><![CDATA[PutraApps]]></copyright>
-		<language><![CDATA[in]]></language>
-		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
-		<itunes:author>PutraApps</itunes:author>
-		<itunes:summary>PutraProduction</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>Musik</itunes:name>
-			<itunes:email></itunes:email>
-		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Music">
-			<itunes:category text="Music Commentary"/>
-		</itunes:category>
-		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg"/>
+		<lastBuildDate>Sun, 20 Dec 2020 22:55:22 GMT</lastBuildDate>
 		<item>
 <title>
 <![CDATA[BLACKPINK THE SHOW]]>
