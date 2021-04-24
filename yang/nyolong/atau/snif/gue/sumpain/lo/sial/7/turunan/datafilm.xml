@@ -44,8 +44,8 @@
 <guid isPermaLink="false">15</guid>
 <pubDate>Sun, 27 Dec 2020 12:30:30 GMT</pubDate>
 <enclosure url="https://bit.ly/3rvNJW4" length="3443902" type="video/mp4"/>
-<duration>6625</duration>
-<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
+<itunes:duration>6625</itunes:duration>
+<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
 </item>
 <item>
 <title>
@@ -68,8 +68,8 @@
 <guid isPermaLink="false">14</guid>
 <pubDate>Sat, 26 Dec 2020 13:05:30 GMT</pubDate>
 <enclosure url="https://bit.ly/2Ma752P" length="3443902" type="video/mp4"/>
-<duration>5723</duration>
-<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
+<itunes:duration>5723</itunes:duration>
+<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
 </item>
 <item>
 <title>
