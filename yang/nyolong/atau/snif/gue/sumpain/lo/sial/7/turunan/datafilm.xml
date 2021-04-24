@@ -329,8 +329,8 @@
 			<guid isPermaLink="false">03</guid>
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
 			<enclosure url="https://bit.ly/3a2aNW6" length="3443902" type="video/mp4"/>
-			<duration>4770</duration>
-			<image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/bp-rev.jpg"/>
+			<itunes:duration>4770</itunes:duration>
+			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/bp-rev.jpg"/>
 		</item>
 		<item>
 			<title><![CDATA[5 Cowok Jagoan: Rise of Zombies]]></title>
