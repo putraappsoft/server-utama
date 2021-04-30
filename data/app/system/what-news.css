@@ -1,4 +1,13 @@
-.responsive {
-  width: 100%;
-  height: auto;
+body {
+    /* Image Location */
+    background-image: url("https://raw.githubusercontent.com/putraappsoft/server-utama/main/data/app/system/image/20210430_193029.jpg");
+  
+    /* Background image is centered vertically and horizontally at all times */
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    /* Font Colour */
+    color:white;
 }
