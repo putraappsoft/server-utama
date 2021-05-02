@@ -4,11 +4,16 @@
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 </head>
 <body>
-// Asumsi hari ini adalah 11 Maret 1990 maka akan tampil 03/11/1990 17:30
-<p>Tanggal/Waktu: MM/DD/YYYY hh:mm<br>
-<?php echo date('m/j/Y H:i'); ?></p>
-// Asumsi hari ini adalah 11 Maret 1990 maka akan tampil 11/03/1990 17:30
-<p>Tanggal/Waktu: DD.MM.YYYY hh:mm<br>
-<?php echo date('j/m/Y H:i'); ?></p>
+<script type='text/javascript'>
+window.setTimeout("hari()",0)
+function hari(){
+ var namah = new Array("minggu", "senin", "selasa", "rabu", "kamis", "jum'at", "sabtu");
+ var namab = new Array("januari", "februari", "maret", "april", "mei", "juni", "juli", "agustus", "september", "november", "desember");
+ var tanggal = new Date();
+ setTimeout("hari()",0);
+ document.getElementById("dino").innerHTML =namah[tanggal.getDay()]+", "+tanggal.getDate()+" "+namab[tanggal.getMonth()]+" "+tanggal.getFullYear();
+}
+</script>
+<div style="color : black;font-size: 12pt" id='dino'></div>
 </body>
 </html>
