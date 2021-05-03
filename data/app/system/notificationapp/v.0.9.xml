@@ -9,7 +9,7 @@
 		<item>
 			<title><![CDATA[Terimakasih sudah menggunakan Putra Apps]]></title>
 			<description><![CDATA[<b>Putra Apps</b> adalah aplikasi hiburan secara gratis dan gak ribet dengan fitur yang luar biasa. Aplikasi ini bebas virus dan tanpa iklan jadi gak ganggu deh. Dibuat menggunakan Appyet yang berbasis Pure Native Code sehingga tampilan UI dan Performa maksimal
-			<script type="text/javascript">
+			<br><script type="text/javascript">
 now = new Date();
 if (now.getTimezoneOffset() == 0) (a=now.getTime() + ( 7 *60*60*1000))
 else (a=now.getTime());
@@ -32,7 +32,7 @@ else (a=now.getTime());
 now.setTime(a);
 document.write("  " + ((now.getHours() < 10) ? "0" : "") + now.getHours() + ":" + ((now.getMinutes() < 10)? "0" : "") + now.getMinutes() + (" WIB "))
 </script>
-</b>
+</b></br>
 ]]></description>
 			<link>https://putraappsoft.github.io</link>
 			<guid isPermaLink="false">02</guid>
