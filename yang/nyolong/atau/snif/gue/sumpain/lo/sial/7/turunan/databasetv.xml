@@ -207,7 +207,7 @@
 			<guid isPermaLink="false">12</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Thu, 12 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1607564583/ei/xyjRX6vpJNyRz7sPv-KUiAs/ip/182.0.132.155/id/gIB2egm7tL8.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/hls_chunk_host/r2---sn-uxa3vhnxa-jb3e7.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/3220/mh/uj/mm/44/mn/sn-uxa3vhnxa-jb3e7/ms/lva/mv/m/mvi/2/pl/22/dover/11/keepalive/yes/mt/1607542829/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhALBjmm-3-drJ3rQl3sU3Hg9U6-MSyVpWXZ4TbRFd9R3hAiEAgXbOX52Pzzy2LTs6UC0I9vYHegyG59Kdiorv60V4ElY%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAM1kno-BexRQ-yg49bYcMsiKQppv2fTUTqOpf18bF9j5AiBa7hLAe56fYCD1FdaKcxa1hJ_GfCGtJ7XVwkXgpAzFvw%3D%3D/playlist/index.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="http://putraappsoft.herokuapp.com/tes.php" length="3443902" type="video/m3u8"/>
 			<itunes:summary>KOMPAS Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
