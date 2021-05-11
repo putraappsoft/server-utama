@@ -207,7 +207,7 @@
 			<guid isPermaLink="false">12</guid>
 			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Thu, 12 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="http://putraappsoft.herokuapp.com/tes.php" length="3443902" type="video/m3u8"/>
+			<enclosure url="http://putraappsoft.herokuapp.com/tv/kompas" length="3443902" type="video/m3u8"/>
 			<itunes:summary>KOMPAS Server Lancar
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
