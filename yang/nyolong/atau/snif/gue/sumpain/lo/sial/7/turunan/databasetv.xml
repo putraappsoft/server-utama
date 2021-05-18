@@ -190,7 +190,7 @@
 			<title><![CDATA[TVOne Streaming Online]]></title>
 			<description><![CDATA[⚫<b>TVONE SERVER OFFAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
-<br>Senin, 14 Desember 2020 - <b>16:51 WIB</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:00 WIB</b></br>
 <br></br>
 <br><b>tvOne</b> (sebelumnya bernama <b>Lativi</b>) adalah sebuah stasiun televisi nasional di Indonesia. Berawal dari penggunaan nama <b>Lativi</b>, stasiun televisi ini didirikan pada tanggal 30 Juli 2002 pukul 16:00 WIB oleh <b>Abdul Latief</b> dan dimiliki oleh <b>ALatief Corporation.</b></br>
 <br></br>
@@ -200,18 +200,11 @@
 <br><b>Informasi Server</b></br>
 <br><b><i>database server: putraapps</i></b></br>
 ]]></description>
-			<link>http://tahulirikuy.blogspot.com</link>
+			<link>https://www.putraappsoft.eu.org</link>
 			<guid isPermaLink="false">09</guid>
-			<dc:creator><![CDATA[Musik]]></dc:creator>
 			<pubDate>Mon, 09 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="disini" length="3443902" type="video/m3u8"/>
-			<itunes:summary>TVOne Server Lancar
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
+			<enclosure url="https://www.putraappsoft.eu.org" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvone.jpg"/>
-			<itunes:season>3</itunes:season>
-			<itunes:episode>9</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
 		</item>
 		<item>
 			<title><![CDATA[GTV Streaming Online]]></title>
