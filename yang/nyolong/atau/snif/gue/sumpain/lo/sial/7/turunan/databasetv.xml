@@ -22,7 +22,7 @@
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">18</guid>
 			<pubDate>Mon, 11 Jan 2021 08:39:29 GMT</pubDate>
-			<enclosure url="https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/cnbc.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://github.com/putraappsoft/servercadangan/raw/putraappsoft-patch-1/logo-tv/cnbc.jpg"/>
 		</item>
 <item>
