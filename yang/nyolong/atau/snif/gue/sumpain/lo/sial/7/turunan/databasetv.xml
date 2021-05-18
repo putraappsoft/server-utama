@@ -42,7 +42,7 @@
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">17</guid>
 			<pubDate>Tue, 17 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/cnn.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-cnnindo.jpg"/>
 		</item>
 		<item>
