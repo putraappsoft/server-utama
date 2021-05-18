@@ -202,7 +202,7 @@
 			<link>https://www.putraappsoft.eu.org</link>
 			<guid isPermaLink="false">09</guid>
 			<pubDate>Mon, 09 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="http://210.210.155.35/session/1b2ed03e-86cb-11ea-bb10-c81f66f89318/qwr9ew/s/s105/index.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/tvone.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvone.jpg"/>
 		</item>
 		<item>
