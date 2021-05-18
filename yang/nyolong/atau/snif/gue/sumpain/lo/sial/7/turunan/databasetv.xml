@@ -242,7 +242,7 @@
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">07</guid>
 			<pubDate>Sat, 07 Nov 2020 23:01:29 GMT</pubDate>
-			<enclosure url="http://210.210.155.35/session/8dccf190-3a0b-11eb-923b-99828e40b5bc/qwr9ew/s/s03/02.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/sctv.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-sctv.jpg"/>
 		</item>
 		<item>
