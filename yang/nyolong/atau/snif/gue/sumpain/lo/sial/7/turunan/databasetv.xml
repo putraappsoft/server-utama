@@ -2,10 +2,9 @@
 	<channel>
 		<title><![CDATA[TV LIVE]]></title>
 		<image>
-			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4225901/4225901-1607345805631-72e35cd6e289d.jpg</url>
+			<url>https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg</url>
 			</image>
-		<lastBuildDate>Fri, 18 Dec 2020 02:11:22 GMT</lastBuildDate>
-		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg"/>
+		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
 			<title><![CDATA[CNBC INDONESIA Streaming Online]]></title>
 			<description><![CDATA[🔴<b>CNBC INDONESIA SERVER ONAIR</b>
