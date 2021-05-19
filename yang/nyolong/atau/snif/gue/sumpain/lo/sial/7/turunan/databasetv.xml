@@ -366,7 +366,7 @@
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">01</guid>
-			<enclosure url="http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="http://redirector-putraappsoft.herokuapp.com/tv/tvri.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvri.jpg"/>
 		</item>
 		</channel>
