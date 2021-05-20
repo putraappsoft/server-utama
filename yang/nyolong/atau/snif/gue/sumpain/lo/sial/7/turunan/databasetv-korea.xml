@@ -25,23 +25,22 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvone.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[GTV Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>GTV SERVER ONAIR</b>
+			<title><![CDATA[KBC Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>KBC SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br><b>GTV</b> (singkatan dari <b>Global Televisi</b>, sebelumnya bernama <b>Global TV dan dibaca dari tvG</b>) adalah salah satu stasiun televisi swasta nasional di Indonesia.</br>
-<br></br>
-<br>Berawal dari sebuah stasiun televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya.</br>
+<br>Kwangju Broadcasting Corporation atau kbc adalah stasiun Radio dan TV di Gwangju , berafiliasi dengan Jaringan SBS.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><b><i>database server: putraapps</i></b></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
-			<link>https://www.putraappsoft.eu.org</link>
+			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">08</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/gtv.m3u8" length="3603311" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-gtv.jpg"/>
+			<enclosure url="http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/kbc.jpg
+"/>
 		</item>
 		<item>
 			<title><![CDATA[CBS Streaming Online]]></title>
