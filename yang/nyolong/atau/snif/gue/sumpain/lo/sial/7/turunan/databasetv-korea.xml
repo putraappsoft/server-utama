@@ -82,23 +82,22 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-rcti.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[MNCTV Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>MNCTV SERVER ONAIR</b>
+			<title><![CDATA[SBS Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>SBS SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br><b>MNCTV</b> (singkatan dari <b>Media Nusantara Citra Televisi</b>, sebelumnya bernama <b>TPI</b>) adalah sebuah stasiun televisi swasta nasional di Indonesia.</br>
-<br></br>
-<br>Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB.</br>
+<br>SBS TV adalah saluran televisi free-to-air Korea Selatan yang dioperasikan oleh Seoul Broadcasting System. Saluran tersebut diluncurkan pada 9 Desember 1991.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><b><i>database server: putraapps</i></b></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">05</guid>
-			<enclosure url="https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-mnctv.jpg"/>
+			<enclosure url="https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/sbs.jpg
+"/>
 		</item>
 		<item>
 			<title><![CDATA[KBS WORLD Streaming Online]]></title>
