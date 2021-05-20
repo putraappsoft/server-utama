@@ -163,7 +163,7 @@
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">03</guid>
-			<enclosure url="http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/ytn.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/ytn.jpg
 "/>
 		</item>
