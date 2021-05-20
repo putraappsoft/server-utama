@@ -168,6 +168,24 @@
 "/>
 		</item>
 		<item>
+			<title><![CDATA[ONE Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>ONE SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>One adalah saluran televisi berbayar milik KC Global Media. Saluran ini menyajikan hiburan berbahasa Korea selama 24 jam, dalam bentuk serial drama dan komedi, program variasi dan pertunjukan musik, yang disuplai oleh Seoul Broadcasting System.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">6373</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/one.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/one.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[EBS Streaming Online]]></title>
 			<description><![CDATA[🔴<b>EBS SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
