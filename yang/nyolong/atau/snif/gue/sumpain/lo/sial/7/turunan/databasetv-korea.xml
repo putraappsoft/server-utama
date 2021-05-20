@@ -139,25 +139,22 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-indosiar.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[ANTV Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>ANTV SERVER ONAIR</b>
+			<title><![CDATA[K-Drama Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>K-Drama SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br>ANTV (singkatan dari <b>Andalas Televisi</b>, ditulis antv, sebelumnya dieja ANteve) adalah sebuah stasiun televisi swasta nasional di Indonesia.</br>
-<br></br>
-<br>Bermula dari sebuah izin siaran lokal di Bandar Lampung pada tanggal 1 Januari 1993.</br>
-<br></br>
-<br>Dua bulan kemudian, tepatnya tanggal 1 Maret 1993, ANTV secara resmi disiarkan ke seluruh Indonesia dari Jakarta, ANTV mengudara selama 4 jam sehari.</br>
+<br>K-Drama adalah stasiun televisi yang menayangkan drama Korea yang terfavorit. K-Drama memiliki slogan "No. 1 Drama Korea TV" sejak tahun 2009 sampai tahun 2011. Karena itu slogan yang digunakan akan memberi semangat yang terbaik dari stasiun televisi ini.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><b><i>database server: putraapps</i></b></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
-			<link>https://putraappsoft.blogspot.com</link>
+			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">02</guid>
-			<enclosure url="http://redirector-putraappsoft.herokuapp.com/tv/antv.m3u8" length="4841358" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-antv.jpg"/>
+			<enclosure url="http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/02.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/kdrama.jpg
+"/>
 		</item>
 		<item>
 			<title><![CDATA[tvN Streaming Online]]></title>
