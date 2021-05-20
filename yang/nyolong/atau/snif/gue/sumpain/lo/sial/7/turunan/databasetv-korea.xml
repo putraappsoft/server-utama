@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[GEM Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>GEM SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Gem adalah salah satu stasiun televisi berbayar milik KC Global Media. Sampai sekarang, stasiun TV ini telah dirilis di Vietnam, tepatnya pada bulan Januari 2014.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">52525</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/gem.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/gem.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[DRAGON Streaming Online]]></title>
 			<description><![CDATA[🔴<b>DRAGON SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
