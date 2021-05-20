@@ -44,23 +44,22 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-gtv.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[SCTV Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>SCTV SERVER ONAIR</b>
+			<title><![CDATA[CBS Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>CBS SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br><b>SCTV (singkatan dari Surya Citra Televisi)</b> adalah sebuah stasiun televisi swasta nasional di Indonesia.</br>
-<br></br>
-<br><b>SCTV</b> merupakan stasiun televisi swasta kedua di Indonesia setelah <b>RCTI</b>.</br>
+<br>CBS (awalnya singkatan dari Columbia Broadcasting System , nama resmi sebelumnya yang digunakan dari 1928 hingga 1974) adalah jaringan televisi dan radio siaran komersial Amerika.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><b><i>database server: putraapps</i></b></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">07</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/sctv.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-sctv.jpg"/>
+			<enclosure url="http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/cbs.jpg
+"/>
 		</item>
 		<item>
 			<title><![CDATA[EBS Streaming Online]]></title>
