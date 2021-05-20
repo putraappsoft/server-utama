@@ -78,24 +78,6 @@
 "/>
 		</item>
 		<item>
-			<title><![CDATA[SBS Streaming Online]]></title>
-			<description><![CDATA[🔴<b>SBS SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>SBS TV adalah saluran televisi free-to-air Korea Selatan yang dioperasikan oleh Seoul Broadcasting System. Saluran tersebut diluncurkan pada 9 Desember 1991.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>http://tahulirikuy.blogspot.com</link>
-			<guid isPermaLink="false">05</guid>
-			<enclosure url="https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/sbs.jpg
-"/>
-		</item>
-		<item>
 			<title><![CDATA[YTN Streaming Online]]></title>
 			<description><![CDATA[🔴<b>YTN SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
@@ -147,6 +129,24 @@
 			<guid isPermaLink="false">066997</guid>
 			<enclosure url="http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/cnninternational.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[SBS Streaming Online]]></title>
+			<description><![CDATA[🔴<b>SBS SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>SBS TV adalah saluran televisi free-to-air Korea Selatan yang dioperasikan oleh Seoul Broadcasting System. Saluran tersebut diluncurkan pada 9 Desember 1991.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">05</guid>
+			<enclosure url="https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/sbs.jpg
 "/>
 		</item>
 		<item>
