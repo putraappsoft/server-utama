@@ -101,23 +101,22 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-mnctv.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[TRANSTV Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>TRANSTV SERVER ONAIR</b>
+			<title><![CDATA[KBS WORLD Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>KBS WORLD SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br>Trans TV adalah sebuah stasiun televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media.</br>
-<br></br>
-<br>Dengan moto Milik Kita Bersama, konsep tayang stasiun ini tidak banyak berbeda dengan stasiun swasta lainnya. Trans TV adalah anak perusahaan dari Trans Media.</br>
+<br>KBS World adalah layanan penyiaran internasional Sistem Penyiaran Korea. Ini terdiri dari KBS World Radio , saluran televisi KBS World dan KBS World 24.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><b><i>database server: putraapps</i></b></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">04</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/transtv.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-transtv.jpg"/>
+			<enclosure url="https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/kbsworld.jpg
+"/>
 		</item>
 		<item>
 			<title><![CDATA[YTN Streaming Online]]></title>
