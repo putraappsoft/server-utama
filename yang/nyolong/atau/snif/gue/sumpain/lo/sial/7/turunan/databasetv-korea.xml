@@ -150,6 +150,24 @@
 "/>
 		</item>
 		<item>
+			<title><![CDATA[tvN Movies Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>tvN Movies SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>tvN Movies, sebuah saluran saudara yang menampilkan film-film Korea Selatan, diluncurkan pada bulan Maret 2017.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">09</guid>
+			<enclosure url="http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tvnmovies.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[tvN Streaming Online]]></title>
 			<description><![CDATA[🔴<b>tvN SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
