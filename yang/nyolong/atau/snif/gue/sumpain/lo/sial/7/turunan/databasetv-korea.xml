@@ -42,24 +42,6 @@
 "/>
 		</item>
 		<item>
-			<title><![CDATA[YTN Streaming Online]]></title>
-			<description><![CDATA[🔴<b>YTN SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>YTN adalah saluran berita Korea 24 jam pertama yang disiarkan ke seluruh Korea Selatan. Itu didirikan pada 14 September 1993, dan mulai mengudara pada 1 Maret 1995.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>http://tahulirikuy.blogspot.com</link>
-			<guid isPermaLink="false">03</guid>
-			<enclosure url="http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/ytn.jpg
-"/>
-		</item>
-		<item>
 			<title><![CDATA[AL JAZEERA Streaming Online]]></title>
 			<description><![CDATA[ðŸ”´<b>AL JAZEERA SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
@@ -93,6 +75,24 @@
 			<guid isPermaLink="false">066997</guid>
 			<enclosure url="http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/cnninternational.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[YTN Streaming Online]]></title>
+			<description><![CDATA[🔴<b>YTN SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>YTN adalah saluran berita Korea 24 jam pertama yang disiarkan ke seluruh Korea Selatan. Itu didirikan pada 14 September 1993, dan mulai mengudara pada 1 Maret 1995.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">03</guid>
+			<enclosure url="http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/ytn.jpg
 "/>
 		</item>
 		<item>
