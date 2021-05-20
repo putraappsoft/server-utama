@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[TV LIVE KOREA]]></title>
+		<image>
+			<url>https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg</url>
+			</image>
+		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
+		<item>
+			<title><![CDATA[TVOne Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>TVONE SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br><b>tvOne</b> (sebelumnya bernama <b>Lativi</b>) adalah sebuah stasiun televisi nasional di Indonesia. Berawal dari penggunaan nama <b>Lativi</b>, stasiun televisi ini didirikan pada tanggal 30 Juli 2002 pukul 16:00 WIB oleh <b>Abdul Latief</b> dan dimiliki oleh <b>ALatief Corporation.</b></br>
+<br></br>
+<br>Pada saat itu, konsep penyusunan acaranya adalah banyak menonjolkan masalah yang berbau klenik, erotisme, berita kriminalitas dan beberapa hiburan ringan lainnya.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org</link>
+			<guid isPermaLink="false">09</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/tvone.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvone.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[GTV Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>GTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br><b>GTV</b> (singkatan dari <b>Global Televisi</b>, sebelumnya bernama <b>Global TV dan dibaca dari tvG</b>) adalah salah satu stasiun televisi swasta nasional di Indonesia.</br>
+<br></br>
+<br>Berawal dari sebuah stasiun televisi lokal di Jakarta, GTV belakangan meluaskan siaran ke 5 kota besar lainnya.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org</link>
+			<guid isPermaLink="false">08</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/gtv.m3u8" length="3603311" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-gtv.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[SCTV Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>SCTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br><b>SCTV (singkatan dari Surya Citra Televisi)</b> adalah sebuah stasiun televisi swasta nasional di Indonesia.</br>
+<br></br>
+<br><b>SCTV</b> merupakan stasiun televisi swasta kedua di Indonesia setelah <b>RCTI</b>.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">07</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/sctv.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-sctv.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[RCTI Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>RCTI SERVER</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br><b>RCTI</b> (singkatan dari <b>Rajawali Citra Televisi Indonesia</b>) adalah salah satu jaringan televisi swasta di Indonesia yang dimiliki oleh <b>Media Nusantara Citra (MNC).</b></br>
+<br></br>
+<br>RCTI merupakan jaringan televisi swasta pertama di Indonesia.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">06</guid>
+			<enclosure url="https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8" length="3443902" type="video/mp4"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-rcti.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[MNCTV Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>MNCTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br><b>MNCTV</b> (singkatan dari <b>Media Nusantara Citra Televisi</b>, sebelumnya bernama <b>TPI</b>) adalah sebuah stasiun televisi swasta nasional di Indonesia.</br>
+<br></br>
+<br>Namanya yang sekarang dipergunakan sejak 20 Oktober 2010 pada pukul 20.10 WIB.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">05</guid>
+			<enclosure url="https://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-mnctv.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[TRANSTV Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>TRANSTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br>Trans TV adalah sebuah stasiun televisi swasta nasional di Indonesia yang dimiliki oleh Trans Media.</br>
+<br></br>
+<br>Dengan moto Milik Kita Bersama, konsep tayang stasiun ini tidak banyak berbeda dengan stasiun swasta lainnya. Trans TV adalah anak perusahaan dari Trans Media.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">04</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/transtv.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-transtv.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[INDOSIAR Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>INDOSIAR SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br>Indosiar adalah salah satu stasiun televisi swasta nasional di Indonesia. Stasiun televisi ini beroperasi dari Daan Mogot, Jakarta Barat.</br>
+<br></br>
+<br>Indosiar awalnya didirikan dan dikuasai oleh Salim Group. Pada tahun 2004, Indosiar merupakan bagian dari PT Indosiar Karya Media Tbk (sebelumnya PT Indovisual Citra Persada) yang tercatat di Bursa Efek Indonesia (dahulu Bursa Efek Jakarta). </br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">03</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/indosiar.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-indosiar.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[ANTV Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>ANTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br>ANTV (singkatan dari <b>Andalas Televisi</b>, ditulis antv, sebelumnya dieja ANteve) adalah sebuah stasiun televisi swasta nasional di Indonesia.</br>
+<br></br>
+<br>Bermula dari sebuah izin siaran lokal di Bandar Lampung pada tanggal 1 Januari 1993.</br>
+<br></br>
+<br>Dua bulan kemudian, tepatnya tanggal 1 Maret 1993, ANTV secara resmi disiarkan ke seluruh Indonesia dari Jakarta, ANTV mengudara selama 4 jam sehari.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b><i>database server: putraapps</i></b></br>
+]]></description>
+			<link>https://putraappsoft.blogspot.com</link>
+			<guid isPermaLink="false">02</guid>
+			<enclosure url="http://redirector-putraappsoft.herokuapp.com/tv/antv.m3u8" length="4841358" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-antv.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[TVRI Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>TVRI SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
+<br></br>
+<br><b>TVRI (singkatan dari Televisi Republik Indonesia)</b> adalah jaringan televisi publik berskala nasional di Indonesia.</br>
+<br></br>
+<br>TVRI berstatus sebagai <b>Lembaga Penyiaran Publik</b> bersama <b>Radio Republik Indonesia</b>, yang ditetapkan melalui <b>Undang-Undang Nomor 32 Tahun 2002 tentang Penyiaran.</b></br>
+<br></br>
+<br>TVRI merupakan jaringan televisi pertama di Indonesia, mulai mengudara pada tanggal 24 Agustus 1962. TVRI memonopoli siaran televisi di Indonesia hingga tahun 1989, ketika televisi swasta pertama didirikan.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><center><b><i>database server: putraapps</i></b></center></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">01</guid>
+			<enclosure url="http://redirector-putraappsoft.herokuapp.com/tv/tvri.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvri.jpg"/>
+		</item>
+		</channel>
+</rss>
