@@ -199,7 +199,7 @@
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">06</guid>
-			<enclosure url="http://ebsonair.ebs.co.kr:1935/ebs1familypc/familypc1m/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/ebs.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/ebs.jpg
 "/>
 		</item>
