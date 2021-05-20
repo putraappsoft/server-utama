@@ -150,6 +150,24 @@
 "/>
 		</item>
 		<item>
+			<title><![CDATA[K-Plus Movies Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>K-Plus Movies SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>K-Plus adalah saluran televisi berbayar Asia Tenggara yang berfokus pada menayangkan serial drama, variety show, film, dan program gaya hidup di K-pop, kecantikan & mode sebagai genre pemrograman utamanya. Diluncurkan pada 17 September 2014 dan tersedia di Indonesia, Malaysia, dan Filipina.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">00</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kplus.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/kplus.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[tvN Movies Streaming Online]]></title>
 			<description><![CDATA[ðŸ”´<b>tvN Movies SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
