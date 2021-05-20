@@ -120,23 +120,22 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-transtv.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[INDOSIAR Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>INDOSIAR SERVER ONAIR</b>
+			<title><![CDATA[YTN Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>YTN SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br>Indosiar adalah salah satu stasiun televisi swasta nasional di Indonesia. Stasiun televisi ini beroperasi dari Daan Mogot, Jakarta Barat.</br>
-<br></br>
-<br>Indosiar awalnya didirikan dan dikuasai oleh Salim Group. Pada tahun 2004, Indosiar merupakan bagian dari PT Indosiar Karya Media Tbk (sebelumnya PT Indovisual Citra Persada) yang tercatat di Bursa Efek Indonesia (dahulu Bursa Efek Jakarta). </br>
+<br>YTN adalah saluran berita Korea 24 jam pertama yang disiarkan ke seluruh Korea Selatan. Itu didirikan pada 14 September 1993, dan mulai mengudara pada 1 Maret 1995.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><b><i>database server: putraapps</i></b></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">03</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/indosiar.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-indosiar.jpg"/>
+			<enclosure url="http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/ytn.jpg
+"/>
 		</item>
 		<item>
 			<title><![CDATA[K-Drama Streaming Online]]></title>
