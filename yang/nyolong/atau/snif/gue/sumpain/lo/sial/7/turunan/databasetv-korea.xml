@@ -132,6 +132,24 @@
 "/>
 		</item>
 		<item>
+			<title><![CDATA[Al Jazeera Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>Al Jazeera SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Al Jazeera English adalah sebuah stasiun televisi berita internasional yang dimiliki oleh Al Jazeera Satellite Network. Al Jazeera merupakan stasiun kembar dari Al Jazeera Al Jazeera English menyajikan berita, analisis, dokumenter, debat langsung, isu terkini, bisnis, dan olahraga.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>http://tahulirikuy.blogspot.com</link>
+			<guid isPermaLink="false">939494</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/aje.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/aje.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[CNN INTERNATIONAL Streaming Online]]></title>
 			<description><![CDATA[ðŸ”´<b>CNN INTERNATIONAL SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
