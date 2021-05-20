@@ -217,7 +217,7 @@
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">08</guid>
-			<enclosure url="http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kbc.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/kbcsbs.jpg
 "/>
 		</item>
