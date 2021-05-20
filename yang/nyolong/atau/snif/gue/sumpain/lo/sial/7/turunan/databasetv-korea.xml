@@ -160,25 +160,24 @@
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-antv.jpg"/>
 		</item>
 		<item>
-			<title><![CDATA[TVRI Streaming Online]]></title>
-			<description><![CDATA[ðŸ”´<b>TVRI SERVER ONAIR</b>
+			<title><![CDATA[Tvn Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>TVn SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
 <br>Selasa, 18 Mei 2021 - <b>22:30 WIB</b></br>
 <br></br>
-<br><b>TVRI (singkatan dari Televisi Republik Indonesia)</b> adalah jaringan televisi publik berskala nasional di Indonesia.</br>
+<br>TVN (singkatan dari Total Variety Network bergaya tvN) adalah jaringan televisi berbayar nasional Korea Selatan yang dimiliki oleh Divisi E&M CJ ENM.</br>
 <br></br>
-<br>TVRI berstatus sebagai <b>Lembaga Penyiaran Publik</b> bersama <b>Radio Republik Indonesia</b>, yang ditetapkan melalui <b>Undang-Undang Nomor 32 Tahun 2002 tentang Penyiaran.</b></br>
-<br></br>
-<br>TVRI merupakan jaringan televisi pertama di Indonesia, mulai mengudara pada tanggal 24 Agustus 1962. TVRI memonopoli siaran televisi di Indonesia hingga tahun 1989, ketika televisi swasta pertama didirikan.</br>
+<br>Program TVN terdiri dari berbagai konten hiburan , yang difokuskan pada serial televisi dan variety show. Ini tersedia di kabel, di satelit melalui SkyLife , dan platform IPTV di Korea Selatan. Sejak 2014, jaringan ini dipimpin oleh Rhee Myung-han.</br>
 <br><b><i>sumber: wikipedia</i></b></br>
 <br></br>
 <br><b>Informasi Server</b></br>
-<br><center><b><i>database server: putraapps</i></b></center></br>
+<br><b>Database server: putraapps</b></br>
 ]]></description>
 			<link>http://tahulirikuy.blogspot.com</link>
 			<guid isPermaLink="false">01</guid>
-			<enclosure url="http://redirector-putraappsoft.herokuapp.com/tv/tvri.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tvri.jpg"/>
+			<enclosure url="https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/korea/ytn.jpg
+"/>
 		</item>
 		</channel>
 </rss>
