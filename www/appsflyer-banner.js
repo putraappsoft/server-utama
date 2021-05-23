@@ -33,15 +33,7 @@ function AFBanner () {
         // Deep link Settings
         var af_dp = getParam("af_dp", settings.mobile_deeplink);       
     
-        // Build URL
-        var url = baseUrl + media_source + campaign + adset + adset_id +
-                  ad + ad_id + site_id + sub1 + af_dp;
         
-        return url;
-    };
-
-    this.buildBanner = function(bannerContainerId, url, settings) {
-
         // CLOSE BUTTON
         var closeImg = document.createElement("IMG");
         closeImg.setAttribute('class', 'appsflyer-banner-close-img');
