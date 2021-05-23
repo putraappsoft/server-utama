@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <script type="text/javascript" src="appsflyer-banner.min.js"></script>
+        <link rel="stylesheet" href="appsflyer-banner.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    </head>
+
+    <body>
+        <div id="my-banner"></div>
+        <script>
+            var settings = {
+                // banner settings
+                title: "AppsFlyer",
+                subtitle: "Track campaigns on the go",
+                app_icon: "img/app_icon.png",
+                call_to_action: "Install",
+
+                // Note - it is recommended to create and initialize the banner only on mobile devices
+                show_only_mobile: true,
+                
+                // attribution settings
+                media_source: "banner_pid",
+                campaign: "banner_c",               
+                adset: "banner_adset",
+                adset_id: "banner_adset_id",
+                ad: "banner_ad",
+                ad_id: "banner_ad_id",
+                site_id: "banner_site_id",
+                sub1: "banner_sub1",
+                
+                // routing settings
+                onelink_id: "pGHC",
+                subdomain: "appsflyer",
+                mobile_deeplink: "appsflyer://"                
+            };
+            
+            var banner = new AFBanner();
+            banner.init("my-banner", settings);
+
+        </script>
+
+        <style>
+        body {
+            margin: 0;
+        }
+        </style>
+    </body>
+</html>
