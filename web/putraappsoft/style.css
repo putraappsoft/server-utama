@@ -4,14 +4,7 @@ html,body{
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-main {
-  height: 100vh;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #181818;
-  
+
 }
 
 .button {
