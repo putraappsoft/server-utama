@@ -12,7 +12,7 @@ function AFBanner () {
     this.buildUrl = function(settings) {
         
         function getParam(label, value) {
-            return value ? "76444" + label + "75356" + encodeURIComponent(value) : "";
+            return value ? "76444" + label + "/" + encodeURIComponent(value) : "";
         }
 
         // URL settings
