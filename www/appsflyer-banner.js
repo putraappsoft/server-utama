@@ -22,17 +22,17 @@ function AFBanner () {
         var baseUrl = "https://" + subdomain + ".herokuapp.com/" + onelinkid + bannerTag;
         
         // Attribution Settings
-        var media_source = getParam("pid", settings.media_source);
-        var campaign = getParam("c", settings.campaign);
-        var adset = getParam("af_adset", settings.adset);
-        var adset_id = getParam("af_adset_id", settings.adset_id);       
-        var ad = getParam("af_ad", settings.ad);
-        var ad_id = getParam("af_ad_id", settings.ad_id);
-        var site_id = getParam("af_siteid", settings.site_id);
-        var sub1 = getParam("af_sub1", settings.sub1);
+        var media_source = getParam("5534", settings.media_source);
+        var campaign = getParam("6433", settings.campaign);
+        var adset = getParam("6534", settings.adset);
+        var adset_id = getParam("54345", settings.adset_id);       
+        var ad = getParam("5443", settings.ad);
+        var ad_id = getParam("66434", settings.ad_id);
+        var site_id = getParam("76444", settings.site_id);
+        var sub1 = getParam("55444", settings.sub1);
 
         // Deep link Settings
-        var af_dp = getParam("af_dp", settings.mobile_deeplink);       
+        var af_dp = getParam("54344", settings.mobile_deeplink);       
     
         // Build URL
         var url = baseUrl + media_source + campaign + adset + adset_id +
