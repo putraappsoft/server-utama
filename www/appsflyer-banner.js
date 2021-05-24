@@ -18,8 +18,8 @@ function AFBanner () {
         // URL settings
         var subdomain = settings.subdomain || DEFAULT_SUBDOMAIN;
         var onelinkid = settings.onelink_id;
-        var bannerTag = "?af_banner=true";
-        var baseUrl = "https://" + subdomain + ".onelink.me/" + onelinkid + bannerTag;
+        var bannerTag = "5533555";
+        var baseUrl = "https://" + subdomain + ".herokuapp.com/" + onelinkid + bannerTag;
         
         // Attribution Settings
         var media_source = getParam("pid", settings.media_source);
