@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[TBS Streaming Online]]></title>
+			<description><![CDATA[🔴<b>TBS SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Traffic Broadcasting System (TBS) (Korea :  , Gyotong Bangsong) adalah jaringan televisi dan radio Korea Selatan tentang lalu lintas di Wilayah Ibu Kota Seoul.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tbs.html</link>
+			<guid isPermaLink="false">9394848</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/tbs.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tbs-new.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[HBO Streaming Online]]></title>
 			<description><![CDATA[🔴<b>HBO SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
