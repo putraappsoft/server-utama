@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[TV WORK NET Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>TV WORK NET SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>TV Work Net menghadirkan liputan berita terkini dan streaming langsung dari TV Work Net akan membantu Anda tetap mengikuti perkembangan acara di seluruh dunia.</br>
+<br><b><i>sumber: live-radio-channels.com</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tv-work-net.html</link>
+			<guid isPermaLink="false">643454</guid>
+			<enclosure url="http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tvworknet.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[Edaily TV Streaming Online]]></title>
 			<description><![CDATA[🔴<b>Edaily TV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
