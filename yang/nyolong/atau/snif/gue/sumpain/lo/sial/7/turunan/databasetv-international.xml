@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[MTV Streaming Online]]></title>
+			<description><![CDATA[🔴<b>MTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>MTV (sebelumnya merupakan singkatan dari Music Television) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Viacom Music and Entertainment Group, sebuah unit dari divisi Viacom Media Networks dari Viacom. Saluran itu sendiri berkantor pusat di New York, dan merupakan anak perusahaan dari Viacom Inc.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-mtv.html</link>
+			<guid isPermaLink="false">7645665</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/mtv.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/mtv.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[GEM Streaming Online]]></title>
 			<description><![CDATA[🔴<b>GEM SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
