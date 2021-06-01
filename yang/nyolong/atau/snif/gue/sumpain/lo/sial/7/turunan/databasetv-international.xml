@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[HBO Streaming Online]]></title>
+			<description><![CDATA[🔴<b>HBO SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>HBO (Home Box Office) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Time Warner. Programnya ditayangkan 24 jam sehari kepada lebih dari 40 juta pelanggan tanpa selingan iklan. Selain itu berbagai produknya juga dipasarkan ke lebih dari 150 negara.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-hbo.html</link>
+			<guid isPermaLink="false">7509989</guid>
+			<enclosure url="http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/hbo.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[MTV Streaming Online]]></title>
 			<description><![CDATA[🔴<b>MTV SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
