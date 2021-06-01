@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[Oh!K Streaming Online]]></title>
+			<description><![CDATA[ðŸ”´<b>Oh!K SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Oh!K adalah saluran televisi berbayar Asia Tenggara yang dimiliki oleh WarnerMedia Entertainment, dengan konten yang dipasok oleh MBC.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-ohk.html</link>
+			<guid isPermaLink="false">29273</guid>
+			<enclosure url="http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/ohk.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[TV WORK NET Streaming Online]]></title>
 			<description><![CDATA[ðŸ”´<b>TV WORK NET SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
