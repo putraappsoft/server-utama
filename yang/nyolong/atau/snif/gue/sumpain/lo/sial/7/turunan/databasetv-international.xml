@@ -6,6 +6,24 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
+			<title><![CDATA[Edaily TV Streaming Online]]></title>
+			<description><![CDATA[🔴<b>Edaily TV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Edaily ( Korea :  ) adalah koran harian yang mengkhususkan diri dalam analisis berita ekonomi dan bisnis. Surat kabar ini didirikan pada 28 Maret 2000 dan diterbitkan di Korea Selatan. Berbasis di Jung-gu, Seoul.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-edaily-tv.html</link>
+			<guid isPermaLink="false">1827374</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/edaily.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/edaily.jpg
+"/>
+		</item>
+		<item>
 			<title><![CDATA[TBS Streaming Online]]></title>
 			<description><![CDATA[🔴<b>TBS SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
