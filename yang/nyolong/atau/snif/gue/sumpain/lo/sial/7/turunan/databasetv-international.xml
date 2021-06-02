@@ -6,114 +6,6 @@
 			</image>
 		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
 		<item>
-			<title><![CDATA[Oh!K Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Oh!K SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>Oh!K adalah saluran televisi berbayar Asia Tenggara yang dimiliki oleh WarnerMedia Entertainment, dengan konten yang dipasok oleh MBC.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-ohk.html</link>
-			<guid isPermaLink="false">29273</guid>
-			<enclosure url="http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/ohk.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[TV WORK NET Streaming Online]]></title>
-			<description><![CDATA[🔴<b>TV WORK NET SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>TV Work Net menghadirkan liputan berita terkini dan streaming langsung dari TV Work Net akan membantu Anda tetap mengikuti perkembangan acara di seluruh dunia.</br>
-<br><b><i>sumber: live-radio-channels.com</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tv-work-net.html</link>
-			<guid isPermaLink="false">643454</guid>
-			<enclosure url="http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tvworknet.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[Edaily TV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Edaily TV SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>Edaily (Korean 이데일리) adalah koran harian yang mengkhususkan diri dalam analisis berita ekonomi dan bisnis. Surat kabar ini didirikan pada 28 Maret 2000 dan diterbitkan di Korea Selatan. Berbasis di Jung-gu, Seoul.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-edaily-tv.html</link>
-			<guid isPermaLink="false">1827374</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/edaily.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/edaily.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[TBS Streaming Online]]></title>
-			<description><![CDATA[🔴<b>TBS SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>Traffic Broadcasting System (TBS) (Korean 교통방송, Gyotong Bangsong) adalah jaringan televisi dan radio Korea Selatan tentang lalu lintas di Wilayah Ibu Kota Seoul.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tbs.html</link>
-			<guid isPermaLink="false">9394848</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/tbs.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tbs-new.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[HBO Streaming Online]]></title>
-			<description><![CDATA[🔴<b>HBO SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>HBO (Home Box Office) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Time Warner. Programnya ditayangkan 24 jam sehari kepada lebih dari 40 juta pelanggan tanpa selingan iklan. Selain itu berbagai produknya juga dipasarkan ke lebih dari 150 negara.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-hbo.html</link>
-			<guid isPermaLink="false">7509989</guid>
-			<enclosure url="http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/hbo.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[MTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>MTV SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
-<br></br>
-<br>MTV (sebelumnya merupakan singkatan dari Music Television) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Viacom Music and Entertainment Group, sebuah unit dari divisi Viacom Media Networks dari Viacom. Saluran itu sendiri berkantor pusat di New York, dan merupakan anak perusahaan dari Viacom Inc.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-mtv.html</link>
-			<guid isPermaLink="false">7645665</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/mtv.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/mtv.jpg
-"/>
-		</item>
-		<item>
 			<title><![CDATA[GEM Streaming Online]]></title>
 			<description><![CDATA[🔴<b>GEM SERVER ONAIR</b>
 <br><b>Terakhir Di Update Admin:</b></br>
@@ -237,6 +129,114 @@
 			<guid isPermaLink="false">12</guid>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/aje.m3u8" length="3443902" type="video/m3u8"/>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/aje.jpg
+"/>
+		</item>
+<item>
+			<title><![CDATA[Oh!K Streaming Online]]></title>
+			<description><![CDATA[🔴<b>Oh!K SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Oh!K adalah saluran televisi berbayar Asia Tenggara yang dimiliki oleh WarnerMedia Entertainment, dengan konten yang dipasok oleh MBC.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-ohk.html</link>
+			<guid isPermaLink="false">29273</guid>
+			<enclosure url="http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/ohk.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[TV WORK NET Streaming Online]]></title>
+			<description><![CDATA[🔴<b>TV WORK NET SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>TV Work Net menghadirkan liputan berita terkini dan streaming langsung dari TV Work Net akan membantu Anda tetap mengikuti perkembangan acara di seluruh dunia.</br>
+<br><b><i>sumber: live-radio-channels.com</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tv-work-net.html</link>
+			<guid isPermaLink="false">643454</guid>
+			<enclosure url="http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tvworknet-new.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[Edaily TV Streaming Online]]></title>
+			<description><![CDATA[🔴<b>Edaily TV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Edaily (Korean 이데일리) adalah koran harian yang mengkhususkan diri dalam analisis berita ekonomi dan bisnis. Surat kabar ini didirikan pada 28 Maret 2000 dan diterbitkan di Korea Selatan. Berbasis di Jung-gu, Seoul.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-edaily-tv.html</link>
+			<guid isPermaLink="false">1827374</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/edaily.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/edaily.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[TBS Streaming Online]]></title>
+			<description><![CDATA[🔴<b>TBS SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>Traffic Broadcasting System (TBS) (Korean 교통방송, Gyotong Bangsong) adalah jaringan televisi dan radio Korea Selatan tentang lalu lintas di Wilayah Ibu Kota Seoul.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tbs.html</link>
+			<guid isPermaLink="false">9394848</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/tbs.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/tbs-new.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[HBO Streaming Online]]></title>
+			<description><![CDATA[🔴<b>HBO SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>HBO (Home Box Office) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Time Warner. Programnya ditayangkan 24 jam sehari kepada lebih dari 40 juta pelanggan tanpa selingan iklan. Selain itu berbagai produknya juga dipasarkan ke lebih dari 150 negara.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-hbo.html</link>
+			<guid isPermaLink="false">7509989</guid>
+			<enclosure url="http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/hbo-new.jpg
+"/>
+		</item>
+		<item>
+			<title><![CDATA[MTV Streaming Online]]></title>
+			<description><![CDATA[🔴<b>MTV SERVER ONAIR</b>
+<br><b>Terakhir Di Update Admin:</b></br>
+<br>Kamis, 20 Mei 2021 - <b>16:20 WIB</b></br>
+<br></br>
+<br>MTV (sebelumnya merupakan singkatan dari Music Television) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Viacom Music and Entertainment Group, sebuah unit dari divisi Viacom Media Networks dari Viacom. Saluran itu sendiri berkantor pusat di New York, dan merupakan anak perusahaan dari Viacom Inc.</br>
+<br><b><i>sumber: wikipedia</i></b></br>
+<br></br>
+<br><b>Informasi Server</b></br>
+<br><b>Database server: putraapps</b></br>
+]]></description>
+			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-mtv.html</link>
+			<guid isPermaLink="false">7645665</guid>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/mtv.m3u8" length="3443902" type="video/m3u8"/>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/international/mtv.jpg
 "/>
 		</item>
 		<item>
