@@ -23,7 +23,7 @@
 <link>https://www.putraappsoft.eu.org/2021/06/download-film-adit-sopo-jarwo-the-movie.html</link>
 <guid isPermaLink="false">20</guid>
 <pubDate>Thu, 3 Jun 2021 13:47:45 GMT</pubDate>
-<enclosure url="https://datafilm-putraappsoft.herokuapp.com/aditsopojarwothemovie/index.m3u8" type="video"/>
+<enclosure url="https://datafilm-putraappsoft.vercel.app/aditsopojarwothemovie/index.m3u8" type="video"/>
 <itunes:duration>4898</itunes:duration>
 <itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/tumbfilm/Adit-Sopo-Jarwo-The-Movie.jpg"/>
 </item>
