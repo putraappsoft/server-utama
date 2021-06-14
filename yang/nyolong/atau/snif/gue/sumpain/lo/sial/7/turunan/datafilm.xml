@@ -192,7 +192,7 @@
 <pubDate>Sun, 27 Dec 2020 12:30:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/ralphbreakstheinternet.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6625</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/w.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/ralph.jpg"/>
 </item>
 <item>
 <title>
@@ -216,7 +216,7 @@
 <pubDate>Sat, 26 Dec 2020 13:05:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/spongebobontherun.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5723</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/sb.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/spongebob.jpg"/>
 </item>
 <item>
 <title>
@@ -239,7 +239,7 @@
 <pubDate>Sat, 26 Dec 2020 12:05:25 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/frozen2.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6194</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/f2.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/frozen2.jpg"/>
 </item>
 <item>
 <title>
@@ -263,7 +263,7 @@
 <pubDate>Sat, 26 Dec 2020 11:29:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/maywho.php" length="3443902" type="video/mp4"/>
 <itunes:duration>7023</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/mw.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/maywho.jpg"/>
 </item>
   <item>
 <title>
@@ -285,7 +285,7 @@
 <pubDate>Wed, 23 Dec 2020 18:19:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/thebossbaby.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5850</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tbb.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/thebossbaby.jpg"/>
 </item>
 <item>
 <title>
@@ -309,7 +309,7 @@
 <pubDate>Mon, 21 Dec 2020 14:13:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/traintobusan2.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6950</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/p2.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/peninsula.jpg"/>
 </item>
 <item>
 <title>
@@ -333,7 +333,7 @@
 <pubDate>Mon, 21 Dec 2020 13:53:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/traintobusan.php" length="3443902" type="video/mp4"/>
 <itunes:duration>7088</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ttb.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/traintobusan.jpg"/>
 </item>
 <item>
 <title>
@@ -359,7 +359,7 @@
 <pubDate>Sun, 20 Dec 2020 23:21:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/wonder.php" length="3443902" type="video/mp4"/>
 <itunes:duration>6790</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/wonder.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wonder.jpg"/>
 </item>
 <item>
 <title>
@@ -383,7 +383,7 @@
 <pubDate>Sun, 20 Dec 2020 15:23:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/goodboys.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5378</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/gb.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/goodboys.jpg"/>
 </item>
 <item>
 <title>
@@ -407,7 +407,7 @@
 <pubDate>Fri, 18 Dec 2020 09:46:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/standbyme.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5186</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/d-rev.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/standbyme.jpg"/>
 </item>
 <item>
 <title>
@@ -431,7 +431,7 @@
 <pubDate>Thu, 17 Dec 2020 17:43:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/thisiscinta.php" length="3443902" type="video/mp4"/>
 <itunes:duration>5028</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/tic-rev.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/thisiscinta.jpg"/>
 </item>
 <item>
 <title>
@@ -455,7 +455,7 @@
 <pubDate>Sun, 13 Dec 2020 17:29:30 GMT</pubDate>
 <enclosure url="https://redirector-putraappsoft.herokuapp.com/film/heart.php" length="3443902" type="video/mp4"/>
 <itunes:duration>7811</itunes:duration>
-<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/h-rev.jpg"/>
+<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/heart.jpg"/>
 </item>
 <item>
 			<title><![CDATA[BLACKPINK Light Up The Sky]]></title>
@@ -476,7 +476,7 @@
 			<pubDate>Sat, 05 Dec 2020 23:01:29 GMT</pubDate>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/film/blackpinklightupthesky.php" length="3443902" type="video/mp4"/>
 			<itunes:duration>4770</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/bp-rev.jpg"/>
+			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/lightupthesky.jpg"/>
 		</item>
 		<item>
 			<title><![CDATA[5 Cowok Jagoan: Rise of Zombies]]></title>
@@ -497,7 +497,7 @@
 			<pubDate>Sat, 05 Dec 2020 12:07:45 GMT</pubDate>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/film/5cowokjagoan.php" length="4841358" type="video/mp4"/>
 			<itunes:duration>6372</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/5cg-rev.jpeg"/>
+			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/5cowokjagoan.jpeg"/>
 		</item>
 		<item>
 			<title><![CDATA[Yowis Ben 2]]></title>
@@ -520,7 +520,7 @@
 			<pubDate>Sat, 05 Dec 2020 11:49:33 GMT</pubDate>
 			<enclosure url="https://redirector-putraappsoft.herokuapp.com/film/yowisben2.php" length="3603311" type="video/mp4"/>
 			<itunes:duration>6524</itunes:duration>
-			<itunes:image href="https://github.com/putraappsoft/database/raw/putraappsoft-patch-1/tumbfilm/ywb2-rev.jpg"/>
+			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/yowisben.jpg"/>
 		</item>
 	</channel>
 </rss>
