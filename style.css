@@ -209,7 +209,7 @@ html[dir=rtl] .app__logo-wrapper {
 
 
 
-.float{
+.kontol{
 	position:fixed;
 	width:60px;
 	height:60px;
@@ -222,6 +222,6 @@ html[dir=rtl] .app__logo-wrapper {
 	box-shadow: 2px 2px 3px #999;
 }
 
-.my-float{
+.my-kontol{
 	margin-top:15px;
 }
