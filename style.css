@@ -221,11 +221,6 @@ html[dir=rtl] .app__logo-wrapper {
   }
 }
 
-.page {
-  max-width: 960px;
-  padding: 0 30px;
-  margin: auto;
-}
 
 .darkmode-toggle {
   z-index: 500;
