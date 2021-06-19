@@ -1,31 +1,3 @@
-
-
-.container {
-  max-width: 960px;
-  padding: 0 30px;
-  margin: auto;
-}
-
-h1, h2 {
-  font-family: "Heebo", sans-serif;
-}
-
-.container-desktop {
-  max-width: 960px;
-  padding: 0 30px;
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .container-desktop {
-    max-width: 100%;
-    padding: 0;
-  }
-}
-
-.tobi-zoom__icon {
-  display: none;
-}
-
 .app__header {
   display: flex;
   flex-direction: row;
