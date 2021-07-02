@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title><![CDATA[Notifikasi Sistem]]></title>
+		<image>
+			<url>https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg</url>
+		</image>
+		<lastBuildDate>Apr 30, 2021 16:59:57 WIB</lastBuildDate>
+		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/logo-tv/up-tv.jpg"/>
+		<item>
+			<title><![CDATA[Terimakasih sudah menggunakan Putra Apps]]></title>
+			<description><![CDATA[<b>Putra Apps</b> adalah aplikasi hiburan secara gratis dan gak ribet dengan fitur yang luar biasa. Aplikasi ini bebas virus dan tanpa iklan jadi gak ganggu deh. Dibuat menggunakan Appyet yang berbasis Pure Native Code sehingga tampilan UI dan Performa maksimal
+]]></description>
+			<link>https://www.putraappsoft.eu.org</link>
+			<guid isPermaLink="false">02</guid>
+			<pubDate>Mei 02, 2021 10:29:36 WIB</pubDate>
+			<enclosure url="https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd" length="3603311" type="video"/>
+			<itunes:duration>65</itunes:duration>
+			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/assets/20210502_181104.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Selamat Datang di Putra Apps]]></title>
+			<description><![CDATA[<p style="text-align: center;">&nbsp;<a href="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1280" data-original-width="1280" height="320" src="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" /></a></p><div style="text-align: left;"><b>Putra Apps</b> adalah aplikasi hiburan secara gratis dan gak ribet dengan fitur yang luar biasa. Aplikasi ini bebas virus dan tanpa iklan jadi gak ganggu deh. Dibuat menggunakan Appyet yang berbasis Pure Native Code sehingga tampilan UI dan Performa maksimal.</div><div style="text-align: left;"><br /></div><div style="text-align: left;">Terimakasih telah mengunduh aplikasi<b> "Putra Apps"</b> semoga anda senang menggunakannya. Jika anda mengalami masalah dengan aplikasi ini, anda bisa menemukan <b>Bantuan</b> di menu atau bisa langsung chat via e-mail <b><a href="mailto:saputraluhurp@gmail.com">saputraluhurp@gmail.com</a>. </b>Selamat menggunakan aplikasinya :)</div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><div style="text-align: left;">Salam <b>putraappsoft</b></div><p></p><script type="text/javascript">
+now = new Date();
+if (now.getTimezoneOffset() == 0) (a=now.getTime() + ( 7 *60*60*1000))
+else (a=now.getTime());
+now.setTime(a);
+var tahun= now.getFullYear ()
+var hari= now.getDay ()
+var bulan= now.getMonth ()
+var tanggal= now.getDate ()
+var hariarray=new Array("Minggu,","Senin,",
+"Selasa,","Rabu,","Kamis,","Jum'at,","Sabtu,")
+var bulanarray=new Array("Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","Nopember","/ 12 /")
+document.write(hariarray[hari]+" "+tanggal+" "+bulanarray[bulan]+" "+tahun)
+</script>
+-
+<b>
+<script type="text/javascript">
+now = new Date();
+if (now.getTimezoneOffset() == 0) (a=now.getTime() + ( 7 *60*60*1000))
+else (a=now.getTime());
+now.setTime(a);
+document.write("  " + ((now.getHours() < 10) ? "0" : "") + now.getHours() + ":" + ((now.getMinutes() < 10)? "0" : "") + now.getMinutes() + (" WIB "))
+</script>
+</b>
+]]></description>
+			<guid isPermaLink="false">01</guid>
+			<pubDate>Apr 30, 2021 16:55:56 WIB</pubDate>
+		</item>
+	</channel>
+</rss>
