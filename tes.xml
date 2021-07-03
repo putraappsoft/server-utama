@@ -13,7 +13,7 @@
 			<link>https://www.putraappsoft.eu.org</link>
 			<guid isPermaLink="false">02</guid>
 			<pubDate>Mei 02, 2021 10:29:36 WIB</pubDate>
-			<enclosure url="https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd" length="3603311" type="video"/>
+			<enclosure url="https://redirector-putraappsoft.herokuapp.com/redirect" length="3603311" type="video"/>
 			<itunes:duration>65</itunes:duration>
 			<itunes:image href="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/assets/20210502_181104.jpg"/>
 		</item>
