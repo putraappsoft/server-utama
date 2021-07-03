@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Podcast Sejarah Indonesia (POSEIDON)]]></title>
+		<description><![CDATA[Podcast yang bikin kamu gagal move on.  Support this podcast: <a href="https://anchor.fm/podcast-sejarah/support" rel="payment">https://anchor.fm/podcast-sejarah/support</a>]]></description>
+		<link>https://anchor.fm/podcast-sejarah</link>
+		<image>
+			<url>https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/11982441/11982441-1611412871646-6b0ef6752ef8b.jpg</url>
+			<title>Podcast Sejarah Indonesia (POSEIDON)</title>
+			<link>https://anchor.fm/podcast-sejarah</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Thu, 01 Jul 2021 07:21:57 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/48045784/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[Podcast Sejarah Indonesia]]></author>
+		<copyright><![CDATA[Podcast Sejarah Indonesia]]></copyright>
+		<language><![CDATA[in]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<anchor:support>https://anchor.fm/podcast-sejarah/support</anchor:support>
+		<anchor:station>48045784</anchor:station>
+		<itunes:author>Podcast Sejarah Indonesia</itunes:author>
+		<itunes:summary>Podcast yang bikin kamu gagal move on.  Support this podcast: &lt;a href=&quot;https://anchor.fm/podcast-sejarah/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/podcast-sejarah/support&lt;/a&gt;</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Podcast Sejarah Indonesia</itunes:name>
+			<itunes:email>podcastsejarah@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Education"/>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/11982441/11982441-1611412871646-6b0ef6752ef8b.jpg"/>
+		<item>
+			<title><![CDATA[[HISTORY FOR LYFE] Presiden 3 Periode? (Kegagalan yang Ingin Diulangi)]]></title>
+			<description><![CDATA[<p><strong>kali ini Poseidon punya segmen baru nih yang bernama History For Lyfe, untuk episode kali ini membahas soal Presiden Indonesia yang pernah menjabat lebih dari 10 tahun nih, yuk mari disimak. Jangan lupa untuk bergabung dalam grup telegram poseidon untuk lebih dekat dengan kami </strong><a href="https://web.telegram.org/k/#/im?p=%40diskusiposeidonn" rel="ugc noopener noreferrer" target="_blank">https://t.me/diskusiposeidonn</a></p>
+
+--- 
+
+Support this podcast: <a href="https://anchor.fm/podcast-sejarah/support" rel="payment">https://anchor.fm/podcast-sejarah/support</a>]]></description>
+			<link>https://anchor.fm/podcast-sejarah/episodes/HISTORY-FOR-LYFE-Presiden-3-Periode--Kegagalan-yang-Ingin-Diulangi-e13f3ab</link>
+			<guid isPermaLink="false">8de3e50e-bed5-435a-9a66-562268af0c51</guid>
+			<dc:creator><![CDATA[Podcast Sejarah Indonesia]]></dc:creator>
+			<pubDate>Sat, 26 Jun 2021 02:28:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/48045784/podcast/play/36195083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-06-26%2F338d3f234bde8ea41b7aa845458835d3.m4a" length="11803835" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;kali ini Poseidon punya segmen baru nih yang bernama History For Lyfe, untuk episode kali ini membahas soal Presiden Indonesia yang pernah menjabat lebih dari 10 tahun nih, yuk mari disimak. Jangan lupa untuk bergabung dalam grup telegram poseidon untuk lebih dekat dengan kami &lt;/strong&gt;&lt;a href=&quot;https://web.telegram.org/k/#/im?p=%40diskusiposeidonn&quot; rel=&quot;ugc noopener noreferrer&quot; target=&quot;_blank&quot;&gt;https://t.me/diskusiposeidonn&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Support this podcast: &lt;a href=&quot;https://anchor.fm/podcast-sejarah/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/podcast-sejarah/support&lt;/a&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>729</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/11982441/11982441-1624674498193-4e03fcc514432.jpg"/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
